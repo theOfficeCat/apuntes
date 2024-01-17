@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e500e29dff38af57",
+        "id": "1e063f83cfe140c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff4866f146555e5",
+            "id": "22937294f4405663",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tareas.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -144,14 +140,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "991e30d7fcac3e3f",
+  "active": "22937294f4405663",
   "lastOpenFiles": [
+    "Tareas.md",
+    "Q5/AC2/AC2.md",
+    "Q5/SO2/SO2.md",
     "Q5/PAR/PAR.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS/41 Organización de la memoria.md",
     "Q5/PAR/3 DESCOMPOSICIÓN EN TAREAS/37 Reducción de las interacciones entre tareas.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS",
-    "Q5/SO2/SO2.md",
-    "Q5/AC2/AC2.md",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/53 Paralelismo a nivel de instrucción.md",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN/42 Cortocircuitos.md",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN/41 Planificación de instrucciones.md",
@@ -174,7 +171,6 @@
     "Q5/SO2/4 GESTIÓN DE PROCESOS/43 Estructuras de manejo.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/42 PCB.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/41 Estados de un proceso.md",
-    "Q5/SO2/3 MEMORIA/32 TLB.md",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/Untitled",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO",
     "Q5/DSBM/CONTROL",
