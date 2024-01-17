@@ -41,4 +41,15 @@ En las entregas hay que seguir los requerimientos de formato.
 - [[24 Overheads]]
 
 ### Tema 3
+- [[31 Creación de tareas]]
+- [[32 Ordenación de tareas]]
+- [[33 Descomposición iterativa]]
+- [[34 Descomposición recursiva]]
+- [[35 Dependencias de tareas]]
+- [[36 Protección de interacción de tareas]]
+- [[37 Reducción de las interacciones entre tareas]]
+
+### Tema 4
+
+- [[41 Organización de la memoria]]
 
