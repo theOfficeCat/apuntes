@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e063f83cfe140c5",
+        "id": "b89b3b51de4599fc",
         "type": "tabs",
         "children": [
           {
-            "id": "22937294f4405663",
+            "id": "c407f0382a3be8e5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,9 +140,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "22937294f4405663",
+  "active": "c407f0382a3be8e5",
   "lastOpenFiles": [
     "Tareas.md",
+    "README.md",
     "Q5/AC2/AC2.md",
     "Q5/SO2/SO2.md",
     "Q5/PAR/PAR.md",
@@ -170,7 +171,6 @@
     "Q5/SO2/4 GESTIÓN DE PROCESOS/44 Ciclo de vida de un proceso.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/43 Estructuras de manejo.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/42 PCB.md",
-    "Q5/SO2/4 GESTIÓN DE PROCESOS/41 Estados de un proceso.md",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/Untitled",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO",
     "Q5/DSBM/CONTROL",
