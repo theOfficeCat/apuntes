@@ -1,0 +1,1 @@
+Se usa principalmente para audio.

@@ -1,0 +1,1 @@
+reescritura del registro de desacople después de CP y BUS e inyección de NOP en salida de D/L.

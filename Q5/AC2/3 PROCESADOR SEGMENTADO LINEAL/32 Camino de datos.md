@@ -1,0 +1,1 @@
+Entre cada etapa hay un registro de desacople que sirve para guardar los datos necesarios para pasar a la siguiente etapa.
