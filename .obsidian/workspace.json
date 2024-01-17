@@ -11,8 +11,12 @@
             "id": "c407f0382a3be8e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tareas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tareas.md"
+              }
             }
           }
         ],
@@ -142,8 +150,8 @@
   },
   "active": "c407f0382a3be8e5",
   "lastOpenFiles": [
-    "Tareas.md",
     "README.md",
+    "Tareas.md",
     "Q5/AC2/AC2.md",
     "Q5/SO2/SO2.md",
     "Q5/PAR/PAR.md",
