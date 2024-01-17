@@ -63,4 +63,4 @@ Al realizar una lectura se produce una petición de lectura. Esta se transfiere 
 
 ###### Write
 
-se envia la petición de escritura al directorio y si el bloque está presente se envía la petición a las caches donde está presente y se invalida/cambia el dato.
+se envía la petición de escritura al directorio y si el bloque está presente se envía la petición a las caches donde está presente y se invalida/cambia el dato.
