@@ -16,11 +16,11 @@ $$LMI = \frac{\sum^N_{i = 1}(Latencia\_inicio\_instrucción)}{N}$$
 
 Para eliminar estos riesgos estructurales se puede añadir hardware, de forma que se dedica un parte del procesador a cada etapa específica.
 
-![Tablas mostrando cómo queda la ejecución añadiendo hardware](../imágenes/segmentado_añadir_hardware.png)
+![[segmentado_añadir_hardware.png|Tablas mostrando cómo queda la ejecución añadiendo hardware]]
 
 Aun con esta mejora se pueden provocar riesgos estructurales por dos instrucciones que por el tipo que son acceden de forma diferente al hardware. Esto se puede solucionar forzando a todas las instrucciones a pasar por todas las etapas aunque no les sean necesarias.
 
-![tablas mostrando cómo queda la ejecución pasando por todas las etapas](../imágenes/segmentado_paso_todas_etapas.png)
+![[segmentado_paso_todas_etapas.png|tablas mostrando cómo queda la ejecución pasando por todas las etapas]]
 
 ## Lógica de control
 

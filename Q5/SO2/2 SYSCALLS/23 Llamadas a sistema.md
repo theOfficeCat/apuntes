@@ -1,8 +1,8 @@
-Hay 2 flags dentro del registro de la palabra de estado del procesador para el nivel de privilegio. [1121 Niveles de privilegio](1121%20Niveles%20de%20privilegio.md)
+Hay 2 flags dentro del registro de la palabra de estado del procesador para el nivel de privilegio. [[1121 Niveles de privilegio]]
 
 Además está el registro $CSEIP$ que apunta a la siguiente instrucción para ejecutar y se tiene también la pila con el registro $ESP$ que apunta a la cima de este stack.
 
-Estas llamadas a sistema se encuentran en la IDT [231 IDT](231%20IDT.md)
+Estas llamadas a sistema se encuentran en la IDT [[231 IDT]]
 
 En caso de que una excepción genere una excepción también en Windows salta el pantallazo azul y en Linux se entra en modo texto y sale una línea diciendo "kernel panic".
 
@@ -26,7 +26,7 @@ Usar registros.
 
 `%edx`, `%ecx`, `%ebx`, `%esi`, `%edi`, `%ebp`
 
-Con el *SAVE_ALL* al guardarse en el orden determinado en [24 Funcionamiento del SO](24%20Funcionamiento%20del%20SO.md) ya se está construyendo automáticamente el frame de activación.
+Con el *SAVE_ALL* al guardarse en el orden determinado en [[24 Funcionamiento del SO]] ya se está construyendo automáticamente el frame de activación.
 ### Método Windows
 
 Usa un buffer guardando los parámetros en la pila y pasando un puntero en el registro `%ebx`

@@ -1,5 +1,5 @@
 
-> [021 Componentes](021%20Componentes.md)
+> [[021 Componentes]]
 
 Los condensadores no dejan pasar corriente continua.
 

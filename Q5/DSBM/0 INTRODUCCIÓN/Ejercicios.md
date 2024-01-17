@@ -1,8 +1,8 @@
-![Ejercicio 1 operacional](../imágenes/ej1operacional.png)
+![[ej1operacional.png|Ejercicio 1 operacional]]
 
 Es un mixer por ejemplo para un equipo de música.
 
 
-![Ejercicio 2 operacional](../imágenes/ej2operacional.png)
+![[ej2operacional.png|Ejercicio 2 operacional]]
 
 Es un ecualizador (amplificación por diferentes filtros de frecuencia)

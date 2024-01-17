@@ -2,7 +2,7 @@ Cuando hay una dependencia de datos se puede acortar este tiempo de latencia ent
 
 Hay dos posibles implementaciones de estos cortocircuitos:
 
-![Las dos implementaciones de cortocircuito](../imágenes/tipos_de_implementacion_cortocircuito.png)
+![[tipos_de_implementacion_cortocircuito.png|Las dos implementaciones de cortocircuito]]
 
 En el procesador que estudiamos al tener ALUs rápidas y registros rápidos se usa la segunda porque reduce el impacto en el tiempo de ciclo mucho mejor que la de inicio.
 

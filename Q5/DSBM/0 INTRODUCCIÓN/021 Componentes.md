@@ -20,11 +20,11 @@ Revisar teoría física
 Al estar hechos los transistores de materia hay cierta caída de potencial en el transistor a la hora de funcionar el circuito.
 #### N-MOS
 
-![nMOS](./../imágenes/nMOS.png)
+![[nMOS.png]]
 
 #### P-MOS
 
-![pMOS](./../imágenes/pMOS.png)
+![[pMOS.png]]
 
 ### Transistores BJT
 

@@ -17,4 +17,4 @@ Esto puede provocar el problema de tener los procesos dispersados por la memoria
 
 Con esto se hace una desfragmentación de memoria moviendo los procesos.
 
-Esta desfragmentación cuando los procesos fueron creciendo en tamaño ralentizaban mucho la ejecución. Como solución a esto se hizo que los procesos no vayan consecutivos en memoria. Para esto se crea la TLB [32 TLB](32%20TLB.md).
+Esta desfragmentación cuando los procesos fueron creciendo en tamaño ralentizaban mucho la ejecución. Como solución a esto se hizo que los procesos no vayan consecutivos en memoria. Para esto se crea la TLB [[32 TLB]].

@@ -10,6 +10,6 @@ Pasos
 	3. Código para bootear: BIOS (Basic I/O System)
 			Esta BIOS se encuentra en una EEPROM.
 5. La BIOS realiza un reconocimiento de hardware con información relacionada con este. Por ejemplo, procesador: frecuencia base, modelo; memoria: frecuencia, tamaño; disco: marca, espacio.
-6. Busca una tarjeta de vídeo (requerida en BIOS actuales) y un dispositivo booteable para ejecutar el sistema operativo que se encuentra en este dispositivo (disco duro, USB, red, etc.). [111 Booteo del disco duro](111%20Booteo%20del%20disco%20duro.md)
-7. Con el bootloader cargado inicializa el kernel. [112 Inicialización del kernel](112%20Inicialización%20del%20kernel.md)
+6. Busca una tarjeta de vídeo (requerida en BIOS actuales) y un dispositivo booteable para ejecutar el sistema operativo que se encuentra en este dispositivo (disco duro, USB, red, etc.). [[111 Booteo del disco duro]]
+7. Con el bootloader cargado inicializa el kernel. [[112 Inicialización del kernel]]
 

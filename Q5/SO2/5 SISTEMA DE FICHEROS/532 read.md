@@ -16,6 +16,6 @@ read_driver(i-nodo, offset, buff, size);
 
 Cuando el thread pase a la ejecución de la entrada/salida se tiene que bloquear.
 
-Se tiene un [533 Gestor](533%20Gestor.md) que siempre está en modo sistema que se encarga de las peticiones de entrada/salida.
+Se tiene un [[533 Gestor]] que siempre está en modo sistema que se encarga de las peticiones de entrada/salida.
 
 al hacer la llamada a sistema para la lectura se realiza el proceso normal pero el puntero del device driver apunta al gestor de dispositivo que tiene su propia función `read_dep()`.
