@@ -6,3 +6,5 @@
 - [ ] Añadir conexión con la explicación de la PCB en [[32 TLB]]
 - [ ] Añadir explicación de CI sobre el PWM [[11. Interfaces de salida digitales]]
 - [ ] Añadir el resto de estructuras del PCB [[441 fork]]
+- [ ] Organizar bien el tema 4 de PAR
+- [ ] Añadir todo de los anteriores cuatris
