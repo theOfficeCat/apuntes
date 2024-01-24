@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q5/SO2/2 SYSCALLS/24 Funcionamiento del SO.md",
+                "file": "Tareas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q5/SO2/2 SYSCALLS/24 Funcionamiento del SO.md",
+                "file": "Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q5/SO2/2 SYSCALLS/24 Funcionamiento del SO.md",
+                "file": "Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q5/SO2/2 SYSCALLS/24 Funcionamiento del SO.md"
+                "file": "Tareas.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "c407f0382a3be8e5",
   "lastOpenFiles": [
+    "Q5/SO2/2 SYSCALLS/22 Interrupciones hardware.md",
+    "Q5/SO2/2 SYSCALLS/24 Funcionamiento del SO.md",
     "Q5/SO2/2 SYSCALLS/231 IDT.md",
     "Q5/SO2/2 SYSCALLS/232 GDT.md",
     "Q5/SO2/2 SYSCALLS/233 TSS.md",
@@ -164,7 +166,6 @@
     "Q5/PAR/2 CONCEPTOS BÁSICOS DEL PARALELISMO/21 Motivos para la computación paralela.md",
     "Q5/PAR/1 INTRODUCCIÓN AL PARALELISMO/12 Sistemas de ejecución paralela.md",
     "22 Interrupciones.md",
-    "Q5/SO2/2 SYSCALLS/22 Interrupciones hardware.md",
     "Q5/DSBM/0 INTRODUCCIÓN/021 Componentes.md",
     "Q5/SO2/1 BOOT/112 Inicialización del kernel.md",
     "README.md",
@@ -176,7 +177,6 @@
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/53 Paralelismo a nivel de instrucción.md",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN/42 Cortocircuitos.md",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN/41 Planificación de instrucciones.md",
-    "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/52 Modificaciones para la segmentación.md",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/Untitled",
