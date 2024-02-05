@@ -19,4 +19,3 @@ Sistema de ficheros compartido: gpfs
 - GB of RAM
 - GB per core
 - Linux OS per node
-- 
