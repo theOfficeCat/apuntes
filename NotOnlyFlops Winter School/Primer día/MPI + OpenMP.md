@@ -1,0 +1,1 @@
+Se pueden juntar los dos sistemas de paralelizado de programas.

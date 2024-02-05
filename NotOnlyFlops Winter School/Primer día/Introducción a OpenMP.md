@@ -12,3 +12,5 @@ Librerías:
 ## Modelo fork-join
 
 Un equipo de threads se crea cuando se inicia una región paralela (fork) y cuando esta termina se eliminan excepto el master (join).
+
+Se puede asignar diferentes tipos de scheduling

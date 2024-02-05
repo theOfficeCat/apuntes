@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotOnlyFlops Winter School/Introducción a OpenMP.md",
+                "file": "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotOnlyFlops Winter School/Introducción a OpenMP.md",
+                "file": "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NotOnlyFlops Winter School/Introducción a OpenMP.md",
+                "file": "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotOnlyFlops Winter School/Introducción a OpenMP.md"
+                "file": "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md"
               }
             }
           }
@@ -163,11 +163,13 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "NotOnlyFlops Winter School/Introducción a clusters HPC.md",
-    "NotOnlyFlops Winter School/Introducción a OpenMP.md",
+    "NotOnlyFlops Winter School/Primer día/MPI + OpenMP.md",
+    "NotOnlyFlops Winter School/Primer día/Introducción a OpenMP.md",
+    "NotOnlyFlops Winter School/Primer día/Introducción a clusters HPC.md",
+    "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
     "NotOnlyFlops Winter School/Preguntas.md",
-    "NotOnlyFlops Winter School/Acceso a MareNostrum 4.md",
-    "NotOnlyFlops Winter School/Untitled",
+    "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
+    "NotOnlyFlops Winter School/Primer día",
     "Q5/DSBM/0 INTRODUCCIÓN/02 Repaso electrónica.md",
     "NotOnlyFlops Winter School",
     "Q5/DSBM/0 INTRODUCCIÓN/03 Diseño de un sistema.md",
@@ -189,8 +191,6 @@
     "Q5/PAR/1 INTRODUCCIÓN AL PARALELISMO/12 Sistemas de ejecución paralela.md",
     "22 Interrupciones.md",
     "Q5/DSBM/0 INTRODUCCIÓN/021 Componentes.md",
-    "Q5/SO2/1 BOOT/112 Inicialización del kernel.md",
-    "README.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",
