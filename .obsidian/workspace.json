@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
+                "file": "NotOnlyFlops Winter School/Primer día/Modulos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
+                "file": "NotOnlyFlops Winter School/Primer día/Modulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
+                "file": "NotOnlyFlops Winter School/Primer día/Modulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md"
+                "file": "NotOnlyFlops Winter School/Primer día/Modulos.md"
               }
             }
           }
@@ -163,10 +163,11 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
+    "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
+    "NotOnlyFlops Winter School/Primer día/Modulos.md",
     "NotOnlyFlops Winter School/Primer día/MPI + OpenMP.md",
     "NotOnlyFlops Winter School/Primer día/Introducción a OpenMP.md",
     "NotOnlyFlops Winter School/Primer día/Introducción a clusters HPC.md",
-    "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
     "NotOnlyFlops Winter School/Preguntas.md",
     "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
     "NotOnlyFlops Winter School/Primer día",
@@ -190,7 +191,6 @@
     "Q5/PAR/2 CONCEPTOS BÁSICOS DEL PARALELISMO/21 Motivos para la computación paralela.md",
     "Q5/PAR/1 INTRODUCCIÓN AL PARALELISMO/12 Sistemas de ejecución paralela.md",
     "22 Interrupciones.md",
-    "Q5/DSBM/0 INTRODUCCIÓN/021 Componentes.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",

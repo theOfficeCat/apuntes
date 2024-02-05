@@ -1,0 +1,1 @@
+Los módulos permiten cargar variables de entorno para el uso de determinadas librerías.
