@@ -17,5 +17,6 @@ Sistema de ficheros compartido: gpfs
 - 24 cores per socket
 - 48 cores (total)
 - 94 GB of RAM
-- GB per core
-- Linux OS per node
+- 2 GB per core
+- 1 Linux OS per node
+
