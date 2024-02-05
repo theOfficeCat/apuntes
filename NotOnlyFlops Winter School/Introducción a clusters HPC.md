@@ -10,3 +10,13 @@ Hay diferentes clusters (MareNostrum 4, Power 9)
 
 Sistema de ficheros compartido: gpfs
 
+## MareNostrum 4
+
+- 3456 Compute nodes
+- 2 sockets per node
+- cores per socket
+- cores (total)
+- GB of RAM
+- GB per core
+- Linux OS per node
+- 
