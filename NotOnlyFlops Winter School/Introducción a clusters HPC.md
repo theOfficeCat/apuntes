@@ -7,3 +7,6 @@ El MareNostrum tiene una arquitectura similar a la del Boada:
 Todo esto está conectado por una red con un gran ancho de banda y baja latencia.
 
 Hay diferentes clusters (MareNostrum 4, Power 9)
+
+Sistema de ficheros compartido: gpfs
+
