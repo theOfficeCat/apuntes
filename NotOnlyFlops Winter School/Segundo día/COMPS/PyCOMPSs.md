@@ -28,6 +28,6 @@ En el tipo se especifica que es un fichero para que no lo trate como strings
 Se puede añadir un decorador para marcar esta limitación.
 
 ```Python
-@constraint(computation_nodes=1)
+@constraint(computing_nodes=1)
 @task()
 ```
