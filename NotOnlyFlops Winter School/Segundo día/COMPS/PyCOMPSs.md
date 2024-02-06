@@ -4,18 +4,24 @@ Se despliega en una arquitectura de master-worker.
 
 ## Creación de tareas
 
+Las tareas se crean usando un decorador `@task` y añadiendo el tipo que se devuelve.
+
 ```Python
 @task(returns=int)
 def tarea():
 	...
 ```
 
-Las tareas se crean usando un decorador `@task` y añadiendo el tipo que se devuelve.
+En datos de entrada que pueden tener dependencias o generarlas 
 
 ```Python
 @task(returns=int, dato=)
 ```
 
+
+### Uso de ficheros
+
+En el tipo se especifica que es un fichero para que no lo trate como strings
 
 ### Limitación de nodos de ejecución
 
