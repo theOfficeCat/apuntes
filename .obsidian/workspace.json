@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotOnlyFlops Winter School/Segundo día/COMPS/PyCOMPSs.md",
+                "file": "NotOnlyFlops Winter School/Tercer día/Predicción climática.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotOnlyFlops Winter School/Segundo día/COMPS/PyCOMPSs.md",
+                "file": "NotOnlyFlops Winter School/Tercer día/Predicción climática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NotOnlyFlops Winter School/Segundo día/COMPS/PyCOMPSs.md",
+                "file": "NotOnlyFlops Winter School/Tercer día/Predicción climática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotOnlyFlops Winter School/Segundo día/COMPS/PyCOMPSs.md"
+                "file": "NotOnlyFlops Winter School/Tercer día/Predicción climática.md"
               }
             }
           }
@@ -163,8 +163,11 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "NotOnlyFlops Winter School/Segundo día/Análisis de rendimiento.md",
     "NotOnlyFlops Winter School/Segundo día/COMPS/PyCOMPSs.md",
+    "NotOnlyFlops Winter School/Tercer día/Predicción climática.md",
+    "NotOnlyFlops Winter School/Tercer día",
+    "NotOnlyFlops Winter School/Segundo día/COMPS/Instalación de PyCOMPSs.md",
+    "NotOnlyFlops Winter School/Segundo día/Análisis de rendimiento.md",
     "NotOnlyFlops Winter School/Segundo día/COMPS",
     "NotOnlyFlops Winter School/Segundo día/Untitled.md",
     "NotOnlyFlops Winter School/Primer día/MPI + OpenMP.md",
@@ -191,15 +194,12 @@
     "Q5/SO2/1 BOOT/111 Booteo del disco duro.md",
     "Q5/PAR/2 CONCEPTOS BÁSICOS DEL PARALELISMO/231 Ejemplo Conjunto de Mandelbrot.md",
     "Q5/PAR/2 CONCEPTOS BÁSICOS DEL PARALELISMO/24 Overheads.md",
-    "Q5/PAR/2 CONCEPTOS BÁSICOS DEL PARALELISMO/23 Granularidad y paralelismo.md",
-    "Q5/PAR/2 CONCEPTOS BÁSICOS DEL PARALELISMO/22 Dependencia.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/Untitled",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO",
     "Q5/DSBM/CONTROL",
-    "Q5/PAR/3 DESCOMPOSICIÓN EN TAREAS",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/20231017_092839.jpg",
