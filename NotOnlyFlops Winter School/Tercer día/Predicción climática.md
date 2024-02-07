@@ -6,4 +6,7 @@ La predicción climática a diferencia de de la predicción del tiempo puede ser
 	 - Se estudia un único time step
 	 - Se divide en diferentes áreas de cómputo
 2. Eficiencia de despliegue
+	- Opciones de coma flotante
+	- Optimización de compilador
+	- Otimización de librerías externas
 	- 
