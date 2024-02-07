@@ -9,4 +9,8 @@ La predicción climática a diferencia de de la predicción del tiempo puede ser
 	- Opciones de coma flotante
 	- Optimización de compilador
 	- Otimización de librerías externas
+3. Benchmarking
+	- Realizar test básicos de métricas de hardware
+	- weak y strong scaling
+	- Comparar optimizaciones (float vs double)
 	- 
