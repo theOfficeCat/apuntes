@@ -4,4 +4,6 @@ La predicción climática a diferencia de de la predicción del tiempo puede ser
 
 1. Determinar el area de estudio
 	 - Se estudia un único time step
-2. Se divide en diferentes áreas de cómputo
+	 - Se divide en diferentes áreas de cómputo
+2. Eficiencia de despliegue
+	- 
