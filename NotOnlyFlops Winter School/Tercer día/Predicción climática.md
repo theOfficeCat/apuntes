@@ -2,3 +2,6 @@ La predicción climática a diferencia de de la predicción del tiempo puede ser
 
 ## Metodología de profiling
 
+1. Determinar el area de estudio
+	 - Se estudia un único time step
+2. Se divide en diferentes áreas de cómputo
