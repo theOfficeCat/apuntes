@@ -14,5 +14,11 @@ La predicción climática a diferencia de de la predicción del tiempo puede ser
 	- weak y strong scaling
 	- Comparar optimizaciones (float vs double)
 4. Análisis del profiling
-	1. Analizar todo lo obtenido con Extrae
-	2. 
+	- Analizar todo lo obtenido con Extrae
+		- Analizar diferentes optimizaciones
+		- Problemas de desbalanceo
+		- Latencia de red y ancho de banda
+5. Validación
+	- Tests de replicabilidad
+		Aunque no se dé el mismo resultado siempre serán similares
+	- 
