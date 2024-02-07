@@ -13,4 +13,6 @@ La predicción climática a diferencia de de la predicción del tiempo puede ser
 	- Realizar test básicos de métricas de hardware
 	- weak y strong scaling
 	- Comparar optimizaciones (float vs double)
-	- 
+4. Análisis del profiling
+	1. Analizar todo lo obtenido con Extrae
+	2. 
