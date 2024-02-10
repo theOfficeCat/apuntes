@@ -6,8 +6,14 @@ Las instrucciones se pueden dividir en varios grupos:
 
 ### Operadores en modo de registro
 
-Todos los operadores se encuentran en registro y se escribe de forma que el primero es el de destino y los demás son los operadores.
+Todos los operadores se encuentran en registro y se escribe de forma que el primero es el de destino y los demás son los operandos.
 
 Ejemplo:
 ```asm
-add rs, ra, rb
+add   rs, ra, rb
+addu  rs, ra, rb
+```
+
+### Operadores con inmediato
+
+La instrucción contiene dos registros para operar siendo uno el destino y otro un operando y un inmediato de 16 bits.
