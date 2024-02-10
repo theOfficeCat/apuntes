@@ -15,4 +15,4 @@ sw rs, off16(ra)
 
 ## Accesos de 2 bytes
 
-Estas instrucciones al igual que las anteriores requieren que la dirección que queda de la suma sea múltiplo en este caso de 2. Además
+Estas instrucciones al igual que las anteriores requieren que la dirección que queda de la suma sea múltiplo en este caso de 2. Además en el caso de los loads existe la posibilidad de que sea sin signo, de forma que no se haga una extensión de signo directamente sino que se rellene con 0.
