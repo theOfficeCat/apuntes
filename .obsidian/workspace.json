@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q2/EC/1. INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q2/EC/1. INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q2/EC/1. INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q2/EC/1. INTRODUCCIÓN/11 Descripción jerárquica de un computador.md"
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md"
               }
             }
           }
@@ -163,8 +163,10 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
+    "Q2/EC/1 INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
+    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
+    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS",
     "Q2/EC/EC.md",
-    "Q2/EC/1. INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
     "NotOnlyFlops Winter School/Quinto día/Untitled.md",
     "NotOnlyFlops Winter School/Cuarto día/RISC-V.md",
     "NotOnlyFlops Winter School/Quinto día",
@@ -195,11 +197,9 @@
     "Q5/SO2/2 SYSCALLS/231 IDT.md",
     "Q5/SO2/2 SYSCALLS/232 GDT.md",
     "Q5/SO2/2 SYSCALLS/233 TSS.md",
-    "Q5/SO2/SO2.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",
-    "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/Untitled",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/20231017_092839.jpg",
