@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md"
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md"
               }
             }
           }
@@ -163,8 +163,10 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
+    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
+    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/221 Instrucciones aritmético-lógicas.md",
+    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
     "Q2/EC/1 INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS",
     "Q2/EC/EC.md",
@@ -195,8 +197,6 @@
     "Tareas.md",
     "Q5/SO2/2 SYSCALLS/22 Interrupciones hardware.md",
     "Q5/SO2/2 SYSCALLS/24 Funcionamiento del SO.md",
-    "Q5/SO2/2 SYSCALLS/231 IDT.md",
-    "Q5/SO2/2 SYSCALLS/232 GDT.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",
