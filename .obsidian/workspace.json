@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotOnlyFlops Winter School/Cuarto día/RISC-V.md",
+                "file": "NotOnlyFlops Winter School/Quinto día/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotOnlyFlops Winter School/Cuarto día/RISC-V.md",
+                "file": "NotOnlyFlops Winter School/Quinto día/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NotOnlyFlops Winter School/Cuarto día/RISC-V.md",
+                "file": "NotOnlyFlops Winter School/Quinto día/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotOnlyFlops Winter School/Cuarto día/RISC-V.md"
+                "file": "NotOnlyFlops Winter School/Quinto día/Untitled.md"
               }
             }
           }
@@ -163,8 +163,10 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "NotOnlyFlops Winter School/Tercer día/Predicción climática.md",
     "NotOnlyFlops Winter School/Cuarto día/RISC-V.md",
+    "NotOnlyFlops Winter School/Quinto día/Untitled.md",
+    "NotOnlyFlops Winter School/Quinto día",
+    "NotOnlyFlops Winter School/Tercer día/Predicción climática.md",
     "NotOnlyFlops Winter School/Cuarto día",
     "NotOnlyFlops Winter School/Segundo día/COMPS/PyCOMPSs.md",
     "NotOnlyFlops Winter School/Tercer día",
@@ -194,12 +196,10 @@
     "Q5/SO2/SO2.md",
     "Q5/SO2/1 BOOT/11 Secuencia de booteo del sistema operativo.md",
     "Q5/SO2/1 BOOT/111 Booteo del disco duro.md",
-    "Q5/PAR/2 CONCEPTOS BÁSICOS DEL PARALELISMO/231 Ejemplo Conjunto de Mandelbrot.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",
     "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO/Untitled",
-    "Q5/AC2/5 PROCESADOR SEGMENTADO MULTICICLO",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/20231017_092839.jpg",
