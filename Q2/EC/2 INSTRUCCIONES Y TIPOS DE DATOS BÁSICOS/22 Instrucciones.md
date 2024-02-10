@@ -7,3 +7,7 @@ Las instrucciones se pueden dividir en varios grupos:
 ### Operadores en modo de registro
 
 Todos los operadores se encuentran en registro y se escribe de forma que el primero es el de destino y los demás son los operadores.
+
+Ejemplo:
+```asm
+add rs, ra, rb
