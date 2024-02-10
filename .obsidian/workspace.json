@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Operadores.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Operadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Operadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md"
+                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Operadores.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "Q2/EC/1 INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
+    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Operadores.md",
+    "Q2/EC/1 INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS",
     "Q2/EC/EC.md",
     "NotOnlyFlops Winter School/Quinto día/Untitled.md",
@@ -196,7 +197,6 @@
     "Q5/SO2/2 SYSCALLS/24 Funcionamiento del SO.md",
     "Q5/SO2/2 SYSCALLS/231 IDT.md",
     "Q5/SO2/2 SYSCALLS/232 GDT.md",
-    "Q5/SO2/2 SYSCALLS/233 TSS.md",
     "Q5/PAR/4 ARQUITECTURAS PARALELAS",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",
