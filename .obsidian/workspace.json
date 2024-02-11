@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,8 +163,13 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
+    "Q6/XC2",
+    "Q6/PCA",
+    "Q6/PEC",
+    "Q6/PROP",
+    "Q6",
+    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/221 Instrucciones aritmético-lógicas.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
     "Q2/EC/1 INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
@@ -185,21 +190,15 @@
     "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
     "NotOnlyFlops Winter School/Primer día/Modulos.md",
     "NotOnlyFlops Winter School/Preguntas.md",
-    "NotOnlyFlops Winter School/Segundo día",
     "NotOnlyFlops Winter School/Primer día/Introducción a OpenMP.md",
     "NotOnlyFlops Winter School/Primer día/Introducción a clusters HPC.md",
     "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
-    "NotOnlyFlops Winter School/Primer día",
     "Q5/DSBM/0 INTRODUCCIÓN/02 Repaso electrónica.md",
-    "NotOnlyFlops Winter School",
     "Q5/DSBM/0 INTRODUCCIÓN/03 Diseño de un sistema.md",
     "Q5/DSBM/0 INTRODUCCIÓN/?1 Buses del sistema.md",
     "Tareas.md",
     "Q5/SO2/2 SYSCALLS/22 Interrupciones hardware.md",
-    "Q5/SO2/2 SYSCALLS/24 Funcionamiento del SO.md",
-    "Q5/PAR/4 ARQUITECTURAS PARALELAS",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
-    "Q5/AC2/4 TÉCNICAS PARA TOLERAR O REDUCIR LA LATENCIA EFECTIVA DE LA SEGMENTACIÓN",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/20231017_092839.jpg",
