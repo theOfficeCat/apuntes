@@ -19,8 +19,6 @@ La nota del proyecto es individual y se basa en la codificación individual de l
 2. Diseño final. (27/5)
 3. Proyecto completo con demostración interactiva. (3/6)
 
-
-
 ## Organización
 
 - 2 horas semanales de teoría
@@ -43,3 +41,24 @@ Uso de BDs: prohibido
 Se pueden usar cualquier librería del entorno JDK de Oracle. Para otras librerías se tiene que pedir permiso al tutor.
 
 Librería de testing: JUnit 4.$*$
+
+## Herramientas
+
+### Opcionales
+
+- IDE de Java
+	- NetBeans
+	- Eclipse
+	- IntellIJ (o como se llame)
+	- etc.
+- Herramienta de documentación
+	- Doxygen
+	- Javadoc
+- Herramienta de planificación
+	- Trello
+	- Issues de git
+### Obligatorias
+
+- Herramienta de edición de UML
+- Git
+	- Repositorio de GitLab
