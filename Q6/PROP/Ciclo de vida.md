@@ -14,3 +14,4 @@ Requerimientos del sistema: tipo del sistema a construir.
 
 Requerimientos software: software que hay que construir
 
+La lista de requerimientos contiene tantos explícitos como implícitos y obligatorios u opcionales.
