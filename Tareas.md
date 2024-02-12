@@ -10,3 +10,4 @@
 - [ ] Añadir todo de los anteriores cuatris
 - [x] Añadir temario DSBM
 - [ ] Acabar de llenar el temario de PROP en [[Ciclo de vida]] de las diapos.
+- [ ] Acabar de llenar tema 1 de PCA [[111 Generación del código]], [[112 Métricas]], 

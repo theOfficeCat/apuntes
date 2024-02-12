@@ -4,3 +4,5 @@ Se usará gcc. En caso de no necesitar acelerador se hará desde la propia placa
 
 ## Ensamblador
 
+Se usa de forma indirecta.
+
