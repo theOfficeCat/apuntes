@@ -1,5 +1,11 @@
 Asignatura de proyecto en Java.
 
+## Nota
+
+Nota: Proyecto
+
+La nota del proyecto es individual y se basa en la codificación individual de las clases.
+
 ## Organización
 
 - 2 horas semanales de teoría
@@ -22,4 +28,3 @@ Uso de BDs: prohibido
 Se pueden usar cualquier librería del entorno JDK de Oracle. Para otras librerías se tiene que pedir permiso al tutor.
 
 Librería de testing: JUnit 4.$*$
-
