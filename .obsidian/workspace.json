@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
+                "file": "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
+                "file": "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
+                "file": "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md"
+                "file": "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md"
               }
             }
           }
@@ -175,8 +175,9 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "Q6/PCA/PCA.md",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
+    "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
+    "Q6/PCA/PCA.md",
     "Q6/PCA/1 INTRODUCCIÓN",
     "Q5/PAR/PAR.md",
     "Tareas.md",
@@ -210,7 +211,6 @@
     "NotOnlyFlops Winter School/Segundo día/Análisis de rendimiento.md",
     "NotOnlyFlops Winter School/Segundo día/Untitled.md",
     "NotOnlyFlops Winter School/Primer día/MPI + OpenMP.md",
-    "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
