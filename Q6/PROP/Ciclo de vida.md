@@ -13,3 +13,4 @@ Programadores: Definen la arquitectura, diseñan la aplicación, escriben los te
 Requerimientos del sistema: tipo del sistema a construir.
 
 Requerimientos software: software que hay que construir
+
