@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/PROP/Ciclo de vida.md",
+                "file": "Tareas.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/PROP/Ciclo de vida.md",
+                "file": "Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/PROP/Ciclo de vida.md",
+                "file": "Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/PROP/Ciclo de vida.md"
+                "file": "Tareas.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "Q6/PROP/PROP.md",
     "Q6/PROP/Ciclo de vida.md",
+    "Q6/PROP/PROP.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
     "README.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",

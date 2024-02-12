@@ -6,6 +6,7 @@
 - [[32 TLB| ]]
 - [[11. Interfaces de salida digitales| ]]
 - [[441 fork| ]]
-- [ ] Organizar bien el tema 4 de PAR
+- [x] Organizar bien el tema 4 de PAR
 - [ ] Añadir todo de los anteriores cuatris
-- [ ] Añadir temario DSBM
+- [x] Añadir temario DSBM
+- [ ] 
