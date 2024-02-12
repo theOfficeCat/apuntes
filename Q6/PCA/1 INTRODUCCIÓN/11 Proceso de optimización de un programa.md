@@ -11,6 +11,6 @@
 	
     Con esta información ya se puede ver qué hay que mejorar del código.
 4. Ejecutar la posible mejora y se comprueba la corrección del output comparando con el golden output.
-5. Timing: comprobar la mejora.
-
+5. Timing: comprobar el tiempo de ejecución.
+6. Volver al punto 2.
 
