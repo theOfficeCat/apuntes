@@ -1,0 +1,1 @@
+- Escribir en /tmp para evitar problemas con el montaje del sistema de ficheros por NFS.
