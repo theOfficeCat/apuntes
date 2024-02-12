@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas.md",
+                "file": "Q6/PCA/PCA.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas.md",
+                "file": "Q6/PCA/PCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas.md",
+                "file": "Q6/PCA/PCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas.md"
+                "file": "Q6/PCA/PCA.md"
               }
             }
           }
@@ -175,19 +175,19 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
+    "Q6/PROP/PROP.md",
+    "Tareas.md",
     "Q6/PCA/1 INTRODUCCIÓN/112 Métricas.md",
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/PCA.md",
     "Q6/PCA/1 INTRODUCCIÓN",
     "Q5/PAR/PAR.md",
-    "Tareas.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/441 fork.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/42 PCB.md",
     "Q5/SO2/3 MEMORIA/32 TLB.md",
     "Q5/SO2/1 BOOT/112 Inicialización del kernel.md",
     "Q6/PROP/Ciclo de vida.md",
-    "Q6/PROP/PROP.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
     "README.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",

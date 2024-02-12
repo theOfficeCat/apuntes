@@ -20,3 +20,7 @@ No se llegará a trabajar con HDL sino simplemente con pragmas de software
 1. 1 hora teoría
 2. 1 hora de problemas
 3. 2 horas de lab
+
+## Importante
+
+Escribir en /tmp para evitar problemas de rendimiento por tener el sistema de ficheros montado por NFS.
