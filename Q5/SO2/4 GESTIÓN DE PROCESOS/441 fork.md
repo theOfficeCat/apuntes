@@ -14,7 +14,7 @@ La tabla de páginas del hijo asigna todas las páginas del padreen diferentes p
 
 Al no estar las páginas del hijo en la tabla de páginas del padre no se puede acceder a sus páginas físicas a través del TLB. Para resolverlo se hace un mapeo temporal en la tabla de páginas del padre. Al terminar este mapeo se hace un `set_cr3()`
 
-Se inicializan el resto de estructuras.
+Se inicializan el resto de estructuras del [[42 PCB]].
 
 Se prepara la pila de sistema para que ejecutando un `task_switch()` se pueda ejecutar el proceso sin problemas.
 

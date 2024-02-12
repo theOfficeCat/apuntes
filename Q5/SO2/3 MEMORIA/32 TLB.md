@@ -10,7 +10,7 @@ Para traducir la dirección física se pasa directamente el offset y a través d
 
 > Esta traducción se hace pasando el identificador de página lógica a la TLB y consultando de forma paralela todos los identificadores de página lógica para encontrar el identificador del frame.
 
-En caso de fallo de TLB se accede al PCB que contiene la tabla de páginas del proceso. Cada entrada de esta tabla de páginas contiene el identificador del frame, un bit de presencia, dos bits de escritura/lectura y un bit de supervisor.
+En caso de fallo de TLB se accede al [[42 PCB]] que contiene la tabla de páginas del proceso. Cada entrada de esta tabla de páginas contiene el identificador del frame, un bit de presencia, dos bits de escritura/lectura y un bit de supervisor.
 
 El procesador tiene un registro `%cr3` que apunta al inicio de la tabla de páginas como dirección .
 

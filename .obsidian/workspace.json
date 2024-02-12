@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q5/SO2/3 MEMORIA/32 TLB.md",
+                "file": "Tareas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d1224ba2232348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q5/SO2/4 GESTIÓN DE PROCESOS/441 fork.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q5/SO2/3 MEMORIA/32 TLB.md",
+                "file": "Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q5/SO2/3 MEMORIA/32 TLB.md",
+                "file": "Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q5/SO2/3 MEMORIA/32 TLB.md"
+                "file": "Tareas.md"
               }
             }
           }
@@ -163,8 +175,10 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "Q5/SO2/4 GESTIÓN DE PROCESOS/42 PCB.md",
+    "Q5/SO2/4 GESTIÓN DE PROCESOS/441 fork.md",
     "Tareas.md",
+    "Q5/SO2/4 GESTIÓN DE PROCESOS/42 PCB.md",
+    "Q5/SO2/3 MEMORIA/32 TLB.md",
     "Q5/SO2/1 BOOT/112 Inicialización del kernel.md",
     "Q6/PROP/Ciclo de vida.md",
     "Q6/PROP/PROP.md",
@@ -197,8 +211,6 @@
     "NotOnlyFlops Winter School/Primer día/Modulos.md",
     "NotOnlyFlops Winter School/Preguntas.md",
     "NotOnlyFlops Winter School/Primer día/Introducción a OpenMP.md",
-    "NotOnlyFlops Winter School/Primer día/Introducción a clusters HPC.md",
-    "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
