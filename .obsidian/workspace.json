@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas.md",
+                "file": "Q5/SO2/3 MEMORIA/32 TLB.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas.md",
+                "file": "Q5/SO2/3 MEMORIA/32 TLB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas.md",
+                "file": "Q5/SO2/3 MEMORIA/32 TLB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas.md"
+                "file": "Q5/SO2/3 MEMORIA/32 TLB.md"
               }
             }
           }
@@ -163,6 +163,9 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
+    "Q5/SO2/4 GESTIÓN DE PROCESOS/42 PCB.md",
+    "Tareas.md",
+    "Q5/SO2/1 BOOT/112 Inicialización del kernel.md",
     "Q6/PROP/Ciclo de vida.md",
     "Q6/PROP/PROP.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
@@ -196,9 +199,6 @@
     "NotOnlyFlops Winter School/Primer día/Introducción a OpenMP.md",
     "NotOnlyFlops Winter School/Primer día/Introducción a clusters HPC.md",
     "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
-    "Q5/DSBM/0 INTRODUCCIÓN/02 Repaso electrónica.md",
-    "Q5/DSBM/0 INTRODUCCIÓN/03 Diseño de un sistema.md",
-    "Q5/DSBM/0 INTRODUCCIÓN/?1 Buses del sistema.md",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
