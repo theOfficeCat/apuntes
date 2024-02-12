@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Q6/PROP/PROP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Q6/PROP/PROP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Q6/PROP/PROP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Q6/PROP/PROP.md"
               }
             }
           }
@@ -163,13 +163,15 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
+    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
+    "Q6/PROP/PROP.md",
+    "README.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
     "Q6/XC2",
     "Q6/PCA",
     "Q6/PEC",
     "Q6/PROP",
     "Q6",
-    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/221 Instrucciones aritmético-lógicas.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/21 Conceptos básicos de MIPS.md",
     "Q2/EC/1 INTRODUCCIÓN/11 Descripción jerárquica de un computador.md",
@@ -197,7 +199,6 @@
     "Q5/DSBM/0 INTRODUCCIÓN/03 Diseño de un sistema.md",
     "Q5/DSBM/0 INTRODUCCIÓN/?1 Buses del sistema.md",
     "Tareas.md",
-    "Q5/SO2/2 SYSCALLS/22 Interrupciones hardware.md",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
