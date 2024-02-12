@@ -24,3 +24,5 @@ No se llegará a trabajar con HDL sino simplemente con pragmas de software
 ## Importante
 
 Escribir en /tmp para evitar problemas de rendimiento por tener el sistema de ficheros montado por NFS.
+
+Se pueden poner las flags de optimización en el nombre del binario para que sea más reproducible.
