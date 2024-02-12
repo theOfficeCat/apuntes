@@ -2,9 +2,24 @@ Asignatura de proyecto en Java.
 
 ## Nota
 
-Nota: Proyecto
+Nota: $FT * (0.4 * N_1 + 0.15 * N_2 + 0.45*N_3)$
+
+Siendo
+
+$FT$: Factor de trabajo individual (entre 0 y 1)
+$N_1$: Primera entrega
+$N_2$: Segunda entrega
+$N_3$: Tercera entrega
 
 La nota del proyecto es individual y se basa en la codificación individual de las clases.
+
+### Entregas
+
+1. Casos de uso, diseño e implementación del modelo de datos y funcionalidades principales con posibilidad de petición de exposiciones presenciales. (22/4)
+2. Diseño final. (27/5)
+3. Proyecto completo con demostración interactiva. (3/6)
+
+
 
 ## Organización
 
