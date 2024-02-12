@@ -5,3 +5,11 @@ Clientes: comunican las necesidades de software que tienen, aseguran la obtenci�
 Jefes: controlan los recursos del proyecto y realizan un seguimiento de que esté en tiempo y de calidad.
 
 Programadores: Definen la arquitectura, diseñan la aplicación, escriben los tests y el código.
+
+## Etapas
+
+### Análisis de requerimientos
+
+Requerimientos del sistema: tipo del sistema a construir.
+
+Requerimientos software: software que hay que construir
