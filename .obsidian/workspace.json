@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md"
               }
             }
           }
@@ -175,8 +175,10 @@
   },
   "active": "80a05bde87953f22",
   "lastOpenFiles": [
-    "Tareas.md",
+    "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
+    "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "README.md",
+    "Tareas.md",
     "Q6/PEC/REPASO VHDL/Untitled.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/441 fork.md",
     "Q6/PEC/PEC.md",
@@ -185,9 +187,7 @@
     "Q6/PCA/1 INTRODUCCIÓN/114 Comprobar corrección del programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
     "Q6/PCA/OPTIMIZACIONES.md",
-    "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/112 Métricas.md",
-    "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "Q6/PCA/PCA.md",
     "Q6/PROP/PROP.md",
     "Q6/PCA/1 INTRODUCCIÓN",

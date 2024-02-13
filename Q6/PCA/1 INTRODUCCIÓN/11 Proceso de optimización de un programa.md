@@ -1,10 +1,10 @@
 1. Analizar input y output.
 	- El input debe ser representativo.
-	- Hay que ver si es preferible el golden output (mejor output, puede tener diferencias en coma flotante) o el golden code (código más eficiente pero que puede generar desviaciones en el resultado).
-2. Compilar.
+	- Se genera el golden output, es decir, el output correcto para después comprobar que las optimizaciones sigan siendo correctas.
+1. Compilar.
 	- Optimizaciones del compilador.
-3. Evaluar.
-	1. Acounting: Resumen de uso de recursos.
+2. Evaluar.
+	1. Accounting: Resumen de uso de recursos.
 	2. Profiling: Información por líneas o funciones de la ejecución.
 	3. Tracing: Extrae, strace.
 	4. HLS
