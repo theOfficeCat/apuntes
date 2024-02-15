@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q5/DSBM/0 INTRODUCCIÓN/02 Repaso electrónica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66626ae42edfc851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
+                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
+                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
+                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md"
+                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md"
               }
             }
           }
@@ -161,20 +148,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "66626ae42edfc851",
+  "active": "c407f0382a3be8e5",
   "lastOpenFiles": [
-    "Q6/XC2/XC2.md",
+    "Q5/DSBM/0 INTRODUCCIÓN/02 Repaso electrónica.md",
+    "Q6/XC2/0 REPASO XC/021 Capas.md",
+    "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
+    "Q6/PCA/OPTIMIZACIONES.md",
+    "Q6/PCA/Cositas.md",
     "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
+    "Q6/XC2/XC2.md",
     "Untitled.md",
     "Q6/XC2/0 REPASO XC",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/XC2",
-    "Q6/PCA/Cositas.md",
     "Q6/PCA/PCA.md",
     "Q6/PEC/PEC.md",
     "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
     "NotOnlyFlops Winter School/Primer día/Introducción a clusters HPC.md",
-    "Q6/PCA/OPTIMIZACIONES.md",
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "README.md",
     "Tareas.md",
@@ -190,9 +180,6 @@
     "Q5/PAR/PAR.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/42 PCB.md",
     "Q5/SO2/3 MEMORIA/32 TLB.md",
-    "Q5/SO2/1 BOOT/112 Inicialización del kernel.md",
-    "Q6/PROP/Ciclo de vida.md",
-    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
     "Q6/XC2",
     "Q6/PCA",
     "Q6/PEC",
