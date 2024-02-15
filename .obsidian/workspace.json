@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/XC2.md",
+                "file": "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/XC2.md",
+                "file": "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/XC2.md",
+                "file": "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/XC2.md"
+                "file": "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "66626ae42edfc851",
   "lastOpenFiles": [
-    "Untitled.md",
     "Q6/XC2/XC2.md",
+    "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
+    "Untitled.md",
     "Q6/XC2/0 REPASO XC",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/XC2",
@@ -192,7 +193,6 @@
     "Q5/SO2/1 BOOT/112 Inicialización del kernel.md",
     "Q6/PROP/Ciclo de vida.md",
     "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/22 Instrucciones.md",
-    "Q2/EC/2 INSTRUCCIONES Y TIPOS DE DATOS BÁSICOS/222 Instrucciones de memoria.md",
     "Q6/XC2",
     "Q6/PCA",
     "Q6/PEC",
