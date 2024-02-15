@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
+                "file": "Tareas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
+                "file": "Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
+                "file": "Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md"
+                "file": "Tareas.md"
               }
             }
           }
@@ -150,14 +150,16 @@
   },
   "active": "c407f0382a3be8e5",
   "lastOpenFiles": [
+    "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
+    "Untitled.md",
+    "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
+    "Tareas.md",
     "Q5/DSBM/0 INTRODUCCIÓN/02 Repaso electrónica.md",
     "Q6/XC2/0 REPASO XC/021 Capas.md",
-    "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
     "Q6/PCA/OPTIMIZACIONES.md",
     "Q6/PCA/Cositas.md",
     "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
     "Q6/XC2/XC2.md",
-    "Untitled.md",
     "Q6/XC2/0 REPASO XC",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/XC2",
@@ -167,11 +169,9 @@
     "NotOnlyFlops Winter School/Primer día/Introducción a clusters HPC.md",
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "README.md",
-    "Tareas.md",
     "Q6/PEC/REPASO VHDL/Untitled.md",
     "Q5/SO2/4 GESTIÓN DE PROCESOS/441 fork.md",
     "Q6/PEC/REPASO VHDL",
-    "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
     "Q6/PCA/1 INTRODUCCIÓN/114 Comprobar corrección del programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
     "Q6/PCA/1 INTRODUCCIÓN/112 Métricas.md",
