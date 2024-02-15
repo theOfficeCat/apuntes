@@ -16,3 +16,6 @@ D6-211
 
 $Nota = (0.5 * C1 + 0.5 * C2) + $
 
+## Competencia transversal
+
+Se hará una presentación sobre un tema relacionado con la asignatura de entorno a 20 minutos.
