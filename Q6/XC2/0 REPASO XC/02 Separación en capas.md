@@ -21,3 +21,7 @@ Esta organización en capas permite que si se genera una nueva tecnología (5G p
 - Unicast
 - Broadcast
 - Multicast
+
+## Transmisión de datos
+
+La transmisión de datos se realiza a partir de tramas que recorren las 7 capas hasta el nivel físico para llegar al destino y volver a "subir".
