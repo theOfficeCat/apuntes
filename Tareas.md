@@ -12,3 +12,4 @@
 - [ ] Acabar de llenar el temario de PROP en [[Ciclo de vida]] de las diapos.
 - [ ] Acabar de llenar tema 1 de PCA [[111 Generación del código]], [[112 Métricas]], [[113 Cuando se tiene que optimizar el código]], [[114 Comprobar corrección del programa]], [[115 Comprobar mejora del rendimiento]]z
 - [ ] Añadir las capas a [[02 Separación en capas]]
+- [ ] Mover los dispositivos de red de [[03 Estructura de Internet]] a [[04 Dispositivos]]
