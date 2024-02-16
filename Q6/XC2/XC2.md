@@ -1,3 +1,5 @@
+Se da por supuesto todo lo dado en [[XC]]
+
 ## Profesor
 
 ### Teoría
