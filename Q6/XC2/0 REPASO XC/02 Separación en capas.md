@@ -14,3 +14,10 @@ Esta organización en capas permite que si se genera una nueva tecnología (5G p
 3 -> Enlace
 
 2-1 -> Interfaz de red
+
+
+## Tipos de comunicación
+
+- Unicast
+- Broadcast
+- Multicast
