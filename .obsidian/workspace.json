@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/03 Estructura de Internet.md",
+                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
+                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
+                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/04 Dispositivos.md"
+                "file": "Q6/XC2/0 REPASO XC/02 Separación en capas.md"
               }
             }
           }
@@ -166,11 +166,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c407f0382a3be8e5",
+  "active": "7010200afd734853",
   "lastOpenFiles": [
+    "Tareas.md",
     "Q6/XC2/0 REPASO XC/03 Estructura de Internet.md",
     "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
-    "Tareas.md",
     "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
     "Q6/XC2/0 REPASO XC/05 Agregación de redes.md",
     "Q6/XC2/XC2.md",

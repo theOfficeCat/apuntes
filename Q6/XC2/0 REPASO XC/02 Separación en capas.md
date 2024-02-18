@@ -7,7 +7,7 @@ Esta organización en capas permite que si se genera una nueva tecnología (5G p
 
 ## Capas TCP/IP
 
-7-5 -> plicación de red
+7-5 -> Aplicación de red
 
 4 -> Transporte
 
