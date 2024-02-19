@@ -22,11 +22,6 @@ Con `-g` se puede añadir información extra como pueden ser las líneas de cód
 
 `-I` sirve para marcar el path del que hacer los include.
 
-
-
-
-
-
 ---
 
 Se puede leer el ensamblador usando el compilador con la flag `-s`. Con la flag `-e` se puede ver el contenido de las macros.

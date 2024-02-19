@@ -97,21 +97,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "112e44dba47fe9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a388e0cdec602f66",
@@ -178,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md"
               }
             }
           }
@@ -241,17 +227,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "112e44dba47fe9b8",
+  "active": "c9805b70d268996d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
+    "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
     "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md",
+    "22.md",
     "23 PCA.md",
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Tareas.md",
-    "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
     "Q6/PCA/2 HERRAMIENTAS",
-    "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
     "Q6/PCA/1 INTRODUCCIÓN/114 Comprobar corrección del programa.md",
     "Q6/PROP/Conceptos de orientación a objetos.md",
     "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
