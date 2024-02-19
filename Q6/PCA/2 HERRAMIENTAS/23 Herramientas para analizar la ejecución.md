@@ -4,7 +4,7 @@ Por ejemplo el comando `/usr/bin/time`. Da información global de tiempo, uso de
 
 `perf` 
 - stat
-	- `perf stat -r N [-d[d[d]]]
+	- `perf stat -r N [-d[ -d[ -d]]]
 	N es el número de ejecuciones de las que recopilar información de los eventos de contadores hardware y elapsed. Además calcula la desviación estándar y la media.
 
     Los -d es el nivel de detalle de estos datos.
