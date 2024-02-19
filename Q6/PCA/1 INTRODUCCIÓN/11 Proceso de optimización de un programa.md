@@ -1,6 +1,6 @@
 1. Analizar input y output.
 	- El input debe ser representativo.
-	- Se genera el golden output, es decir, el output correcto para después comprobar que las optimizaciones sigan siendo correctas.
+	- Se genera el golden output, es decir, el output correcto para después comprobar que las optimizaciones sigan siendo correctas. Se genera compilando con -O0 para evitar optimizaciones y, por tanto, asegurar que es la solución correcta.
 1. Compilar. [[111 Generación del código]]
 	- Optimizaciones del compilador.
 2. Evaluar. [[112 Análisis de rendimiento]]
