@@ -18,7 +18,7 @@ Es necesario usar `-march=(arch)` para que añada las optimizaciones para la arq
 
 Con `-g` se puede añadir información extra como pueden ser las líneas de código.
 
-`-pg` a diferencia se usa para compilar para el análisis de profiling con gprof. [[23 PCA]]
+`-pg` a diferencia se usa para compilar para el análisis de profiling con gprof. [[23 Herramientas para analizar la ejecución]]
 
 `-I` sirve para marcar el path del que hacer los include.
 

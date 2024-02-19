@@ -1,6 +1,6 @@
 ## Accounting
 
-Por ejemplo el comando `/usr/bin/time`. Da información global de tiempo, uso de memoria, fallos de página, 
+Por ejemplo el comando `/usr/bin/time`. Da información global de tiempo, uso de memoria, fallos de página, % de CPU (tiempo que ha estado usando CPU respecto al total de ejecución, lo normal es estar en +90% si no hay mucha espera a I/O).
 
 ## Profiling
 
