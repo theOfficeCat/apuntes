@@ -20,7 +20,7 @@ Con `-g` se puede añadir información extra como pueden ser las líneas de cód
 
 `-pg` a diferencia se usa para compilar para el análisis de profiling con gprof. [[23 PCA]]
 
-`-I` sirve para marcar el path del que hacer los inclide.
+`-I` sirve para marcar el path del que hacer los include.
 
 
 
