@@ -17,4 +17,16 @@ Estas métricas se tienen que elegir en base a las necesidades del análisis en 
 
 ### Accounting
 
-Se usa para mostrar los recursos
+Se usa para mostrar los recursos que se han usado para ejecutar el programa (tiempo de CPU, uso de memoria, etc.).
+
+### Profiling
+
+Permite un análisis algo más en profundidad como funciones ejecutadas, información de las línea de código de source, código en ensamblador, etc.
+
+### Tracing
+
+Permite leer información relativa a la ejecución del programa.
+
+### Análisis HLS
+
+permite ver recursos hardware y reportes de latencia.
