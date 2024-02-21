@@ -22,8 +22,11 @@ La nota del proyecto es individual y se basa en la codificación individual de l
 ### Entregas
 
 1. Casos de uso, diseño e implementación del modelo de datos y funcionalidades principales con posibilidad de petición de exposiciones presenciales. (22/4)
+	- Código básico + documentación + tests
 2. Diseño final. (27/5)
+	- 
 3. Proyecto completo con demostración interactiva. (3/6)
+	- 
 
 ## Organización
 
