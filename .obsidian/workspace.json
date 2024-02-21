@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+                "file": "Q6/PROP/PROP.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+                "file": "Q6/PROP/PROP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+                "file": "Q6/PROP/PROP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md"
+                "file": "Q6/PROP/PROP.md"
               }
             }
           }
@@ -229,8 +229,8 @@
   },
   "active": "444d701faa0d053e",
   "lastOpenFiles": [
-    "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+    "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/2 HERRAMIENTAS/22 Herramientas para analizar el binario.md",
     "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md",
     "Q6/PCA/Cositas.md",

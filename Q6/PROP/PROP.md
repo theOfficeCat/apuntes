@@ -1,3 +1,10 @@
+## Profesor
+
+Pau Blanco
+
+pablo.blanco@upc.edu
+
+
 Asignatura de proyecto en Java.
 
 ## Nota
