@@ -36,4 +36,3 @@ Se basan en:
 
 - agregación
 - misma métrica
-- 

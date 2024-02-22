@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
+                "file": "Q6/XC2/0 REPASO XC/06 Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
+                "file": "Q6/XC2/0 REPASO XC/06 Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
+                "file": "Q6/XC2/0 REPASO XC/06 Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/05 Encaminamiento.md"
+                "file": "Q6/XC2/0 REPASO XC/06 Firewall.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "active": "ffd90517d10536ab",
   "lastOpenFiles": [
     "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
+    "Q6/XC2/0 REPASO XC/06 Firewall.md",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
     "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
@@ -178,7 +179,6 @@
     "22.md",
     "23 PCA.md",
     "Q6/PCA/2 HERRAMIENTAS",
-    "Q6/PROP/Conceptos de orientación a objetos.md",
     "Q4/XC",
     "Q4",
     "Q6/XC2/0 REPASO XC",
