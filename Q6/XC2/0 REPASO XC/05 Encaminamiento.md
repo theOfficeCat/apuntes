@@ -28,3 +28,12 @@ Son vectores (contienen diferentos elementos) con cada elemento conteniendo 3 in
 
 La información recibida por RIP no se reenvía al emisor.
 
+### Sumarización
+
+Se usa para compactar los mensajes y las tablas de encaminamiento.
+
+Se basan en:
+
+- agregación
+- misma métrica
+- 
