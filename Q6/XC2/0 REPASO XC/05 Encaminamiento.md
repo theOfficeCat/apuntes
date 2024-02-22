@@ -26,5 +26,5 @@ Son vectores (contienen diferentos elementos) con cada elemento conteniendo 3 in
 
 ### Split Horizon
 
-
+La información recibida por RIP no se reenvía al emisor.
 
