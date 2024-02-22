@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e85d61b0ee2f94",
+        "id": "9c3a00fe140d5c94",
         "type": "tabs",
         "children": [
           {
-            "id": "ffd90517d10536ab",
+            "id": "b2f3de2e9792bd9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q6/XC2/0 REPASO XC/06 Firewall.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/06 Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/06 Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/06 Firewall.md"
+                "file": "Q6/XC2/Untitled.canvas"
               }
             }
           }
@@ -148,10 +142,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ffd90517d10536ab",
+  "active": "991e30d7fcac3e3f",
   "lastOpenFiles": [
-    "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO",
+    "Q6/XC2/Untitled.canvas",
     "Q6/XC2/0 REPASO XC/06 Firewall.md",
+    "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
     "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
@@ -177,7 +173,6 @@
     "Q6/PCA/Cositas.md",
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "22.md",
-    "23 PCA.md",
     "Q6/PCA/2 HERRAMIENTAS",
     "Q4/XC",
     "Q4",
