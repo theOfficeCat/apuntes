@@ -4,95 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b89b3b51de4599fc",
+        "id": "d5e85d61b0ee2f94",
         "type": "tabs",
         "children": [
           {
-            "id": "c407f0382a3be8e5",
+            "id": "ffd90517d10536ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7010200afd734853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "444d701faa0d053e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b179132bece99ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/114 Comprobar corrección del programa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afbc935494aef615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48058805b6acc338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "5837e3cbddd5193b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9805b70d268996d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
+                "file": "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+                "file": "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+                "file": "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md"
+                "file": "Q6/XC2/0 REPASO XC/05 Encaminamiento.md"
               }
             }
           }
@@ -227,44 +148,44 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "444d701faa0d053e",
+  "active": "ffd90517d10536ab",
   "lastOpenFiles": [
-    "Q6/PCA/2 HERRAMIENTAS/22 Herramientas para analizar el binario.md",
-    "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md",
+    "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
+    "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
     "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
+    "Q6/XC2/0 REPASO XC/15 Agregación de redes.md",
+    "Q6/XC2/0 REPASO XC/05 Agregación de redes.md",
+    "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
+    "Q6/XC2/0 REPASO XC/03 Estructura de Internet.md",
+    "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
+    "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
+    "Q6/XC2/2 IPv6",
+    "Q6/XC2/0 REPASO XC/14 Dispositivos.md",
+    "Q6/XC2/0 REPASO XC/13 Estructura de Internet.md",
+    "Q6/XC2/0 REPASO XC/12 Separación en capas.md",
+    "Q6/XC2/0 REPASO XC/11 Objetivo de las redes.md",
+    "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+    "Q6/XC2/1 Arquitectura de Internet",
+    "Q6/PCA/2 HERRAMIENTAS/22 Herramientas para analizar el binario.md",
+    "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md",
     "Q6/PCA/1 INTRODUCCIÓN/114 Comprobar corrección del programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
-    "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
-    "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
-    "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
-    "Q6/XC2/0 REPASO XC/03 Estructura de Internet.md",
-    "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
-    "Q6/XC2/0 REPASO XC/05 Agregación de redes.md",
     "Q6/PROP/PROP.md",
     "Tareas.md",
-    "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/Cositas.md",
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "22.md",
     "23 PCA.md",
     "Q6/PCA/2 HERRAMIENTAS",
     "Q6/PROP/Conceptos de orientación a objetos.md",
-    "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
-    "Q6/XC2/XC2.md",
-    "Q4/XC/XC.md",
     "Q4/XC",
     "Q4",
-    "Q5/DSBM/0 INTRODUCCIÓN/02 Repaso electrónica.md",
-    "Q6/XC2/0 REPASO XC/021 Capas.md",
-    "Q6/PCA/OPTIMIZACIONES.md",
     "Q6/XC2/0 REPASO XC",
     "Q6/XC2",
     "Q6/PEC/REPASO VHDL",
     "Q6/PCA/1 INTRODUCCIÓN",
     "Q6/XC2",
-    "Q6/PCA",
-    "Q6/PEC",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
