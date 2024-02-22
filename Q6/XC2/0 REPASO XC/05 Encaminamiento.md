@@ -24,5 +24,7 @@ Son vectores (contienen diferentos elementos) con cada elemento conteniendo 3 in
 2. Máscara
 3. Métrica
 
+### Split Horizon
+
 
 
