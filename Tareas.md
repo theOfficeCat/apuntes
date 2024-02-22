@@ -19,3 +19,4 @@
 	- [ ] [[114 Comprobar corrección del programa]]
 	- [ ] [[115 Comprobar mejora del rendimiento]]
 - [ ] Llenar [[Conceptos de orientación a objetos]]
+- [ ] Escribir las cosas de [[11 Arquitectura general de Internet]]
