@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/PCA/PCA.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/PCA/PCA.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/PCA/PCA.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/PCA/PCA.md"
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
+    "Q6/PCA/PCA.md",
     "Q6/PCA/Cositas.md",
     "Q6/PCA/OPTIMIZACIONES.md",
     "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
@@ -193,7 +194,6 @@
     "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
     "Q6/XC2/2 IPv6",
     "Q6/XC2/0 REPASO XC/14 Dispositivos.md",
-    "Q6/XC2/0 REPASO XC/13 Estructura de Internet.md",
     "Q6/XC2/1 Arquitectura de Internet",
     "Q6/PCA/2 HERRAMIENTAS",
     "Q4/XC",
