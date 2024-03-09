@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/32 Memoization.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/32 Memoization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/32 Memoization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md"
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/32 Memoization.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
+    "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
+    "Q6/PCA/3 LONG LATENCY OPERATIONS/32 Memoization.md",
     "Q6/PCA/PCA.md",
     "Q6/PCA/Cositas.md",
     "Q6/PCA/OPTIMIZACIONES.md",
@@ -170,7 +172,6 @@
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
-    "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
     "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS",
     "Q6/PCA/2 HERRAMIENTAS/22 Herramientas para analizar el binario.md",
@@ -193,7 +194,6 @@
     "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
     "Q6/XC2/0 REPASO XC/01 Objetivo de las redes.md",
     "Q6/XC2/2 IPv6",
-    "Q6/XC2/0 REPASO XC/14 Dispositivos.md",
     "Q6/XC2/1 Arquitectura de Internet",
     "Q6/PCA/2 HERRAMIENTAS",
     "Q4/XC",
