@@ -11,4 +11,7 @@ Estas redes se estructuran de difewrentes formas:
 	Son redes que no tienen subconectadas otras más y que contratan una únmica línea de acceso al ISP.
 - Redes corporativas
 	Son una LAN o un conjunto de LANs que contratan o más líneas conmutadas o dedicadas a un ISP.
-- 
+- ISP
+	Servicio que proporciona la conexión a internet a un usuario, redes corporativas u otros ISP.
+	- Iterconexión entre ISPs.
+		Son líneas dedicadas a la conectividad entre ISPs.
