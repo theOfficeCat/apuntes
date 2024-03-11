@@ -8,3 +8,5 @@ Mover computaciones repetidas fuera del bucle.
 
 ## Loop unrolling
 
+Deshacer bucles para evitar tantos saltos
+
