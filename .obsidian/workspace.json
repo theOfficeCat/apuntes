@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/33 Branches.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/33 Branches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/33 Branches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md"
+                "file": "Q6/PCA/3 LONG LATENCY OPERATIONS/33 Branches.md"
               }
             }
           }
@@ -163,6 +163,9 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
+    "Q6/XC2/XC2.md",
+    "Q6/PCA/3 LONG LATENCY OPERATIONS/33 Branches.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/12 Actores principales de Interet.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/121 ISP.md",
@@ -182,7 +185,6 @@
     "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS",
     "Tareas.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
     "Q6/XC2/Untitled.canvas",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/Untitled",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO",
@@ -191,8 +193,6 @@
     "Q6/XC2/0 REPASO XC/15 Agregación de redes.md",
     "Q6/XC2/0 REPASO XC/05 Agregación de redes.md",
     "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
-    "Q6/XC2/0 REPASO XC/03 Estructura de Internet.md",
-    "Q6/XC2/0 REPASO XC/02 Separación en capas.md",
     "Q6/XC2/2 IPv6",
     "Q6/XC2/1 Arquitectura de Internet",
     "Q6/PCA/2 HERRAMIENTAS",

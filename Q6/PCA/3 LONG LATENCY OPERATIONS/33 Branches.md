@@ -1,0 +1,1 @@
+no hay que hacer bithacks en caso de que las expresiones internas de los ifs sean más costosas que una de las expresiones y los fallos en caso de predicción errónea de salto.
