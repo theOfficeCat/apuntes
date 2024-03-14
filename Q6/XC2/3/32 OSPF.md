@@ -13,3 +13,7 @@ Se puede configurar de diferentes maneras:
 - Manualmente
 - @IP más alta entre las @IP asignadas a las interfaces virtuales
 - En caso de no crearse interfaces virtuales es la @IP más alta entre las @IP asignadas a interfaces activas del router.
+
+## Funcionamiento
+
+SI le llega un mensaje con la información d eun cambio modifica el conocimiento del sistema y ejecuta un algoritmo de SFP (dijkstra).
