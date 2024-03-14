@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/3/31 Contexto.md",
+                "file": "Q6/XC2/3/32 OSPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/3/31 Contexto.md",
+                "file": "Q6/XC2/3/32 OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/3/31 Contexto.md",
+                "file": "Q6/XC2/3/32 OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/3/31 Contexto.md"
+                "file": "Q6/XC2/3/32 OSPF.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
-    "Q6/PCA/3 LONG LATENCY OPERATIONS/34 Técnicas.md",
     "Q6/XC2/3/31 Contexto.md",
+    "Q6/XC2/3/32 OSPF.md",
+    "Q6/PCA/3 LONG LATENCY OPERATIONS/34 Técnicas.md",
     "Q6/XC2/3",
     "Q6/PCA/3 LONG LATENCY OPERATIONS/33 Branches.md",
     "Q6/XC2/XC2.md",
@@ -193,7 +194,6 @@
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO",
     "Q6/XC2/0 REPASO XC/06 Firewall.md",
     "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
-    "Q6/XC2/0 REPASO XC/15 Agregación de redes.md",
     "Q6/XC2/2 IPv6",
     "Q6/XC2/1 Arquitectura de Internet",
     "Q6/PCA/2 HERRAMIENTAS",
