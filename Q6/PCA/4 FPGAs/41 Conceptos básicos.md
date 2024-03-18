@@ -9,4 +9,4 @@ Al hacer copy_in se copia en unas páginas pinneadas del espacio de kernel y a l
 
 ## Acceso a los datos
 
-Se tienen solo dos puertos por RAM cosa que limita el uso que se le puede dar. Para solucionar eso se puede particionar
+Se tienen solo dos puertos por RAM cosa que limita el uso que se le puede dar. Para solucionar eso se puede particionar en registros.
