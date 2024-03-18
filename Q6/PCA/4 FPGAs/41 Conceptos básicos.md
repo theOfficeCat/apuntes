@@ -1,1 +1,1 @@
-No vamos a usar HDL, la programación se va a hacer a través de pragmas.
+No vamos a usar HDL, la programación se va a hacer a través de pragmas usando OmpSs.
