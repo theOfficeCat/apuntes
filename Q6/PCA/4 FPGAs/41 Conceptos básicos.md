@@ -6,3 +6,7 @@ No vamos a usar HDL, la programación se va a hacer a través de pragmas usando 
 ## Copia de datos
 
 Al hacer copy_in se copia en unas páginas pinneadas del espacio de kernel y a las que accede el acelerador a través de DMA para la copia de los datos de entrada y de salida.
+
+## Acceso a los datos
+
+Se tienen solo dos puertos por RAM cosa que limita el uso que se le puede dar. Para solucionar eso se puede particionar
