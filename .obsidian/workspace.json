@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
+                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
+                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
+                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/PCA/4 FPGAs/41 Conceptos básicos.md"
+                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md"
               }
             }
           }
@@ -163,43 +163,43 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
-    "Q6/PCA/4 FPGAs",
     "Q6/XC2/3/32 OSPF.md",
-    "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
     "Q6/XC2/3/31 Contexto.md",
-    "Q6/PCA/3 LONG LATENCY OPERATIONS/34 Técnicas.md",
     "Q6/XC2/3",
-    "Q6/PCA/3 LONG LATENCY OPERATIONS/33 Branches.md",
-    "Q6/XC2/XC2.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/12 Actores principales de Interet.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/121 ISP.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md",
-    "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
-    "Q6/PCA/2 HERRAMIENTAS/22 Herramientas para analizar el binario.md",
-    "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md",
-    "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
-    "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
-    "Q6/PCA/3 LONG LATENCY OPERATIONS/31 Bithacks.md",
-    "Q6/PCA/3 LONG LATENCY OPERATIONS/32 Memoization.md",
+    "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
+    "Q6/PCA/4 FPGAs",
+    "Q6/PCA/3 LONG LATENCY OPERATIONS/31.md",
     "Q6/PCA/PCA.md",
     "Q6/PCA/Cositas.md",
     "Q6/PCA/OPTIMIZACIONES.md",
+    "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
+    "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS",
+    "Q6/PCA/2 HERRAMIENTAS/22 Herramientas para analizar el binario.md",
     "Tareas.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/121 ISP.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/12 Actores principales de Interet.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
     "Q6/XC2/Untitled.canvas",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/Untitled",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO",
+    "Q6/XC2/0 REPASO XC/06 Firewall.md",
+    "Q6/XC2/0 REPASO XC/05 Encaminamiento.md",
+    "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
+    "Q6/XC2/0 REPASO XC/15 Agregación de redes.md",
+    "Q6/XC2/0 REPASO XC/05 Agregación de redes.md",
+    "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
+    "Q6/XC2/0 REPASO XC/03 Estructura de Internet.md",
     "Q6/XC2/2 IPv6",
     "Q6/XC2/1 Arquitectura de Internet",
     "Q6/PCA/2 HERRAMIENTAS",
     "Q4/XC",
     "Q4",
-    "Q6/XC2/0 REPASO XC",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
