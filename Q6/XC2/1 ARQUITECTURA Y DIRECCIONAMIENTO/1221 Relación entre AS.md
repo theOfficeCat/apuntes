@@ -8,4 +8,5 @@ Situación en la que dos AS se ponen de acuerdo para transmitir entre ellos la i
 
 ## Transit
 
-Situación en la que un AS le permite acceso a su red a otr
+Situación en la que un AS le permite acceso a su red a otro por un coste.
+
