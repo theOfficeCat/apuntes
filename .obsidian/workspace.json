@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md"
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md"
               }
             }
           }
@@ -163,10 +163,11 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/121 ISP.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/12 Actores principales de Interet.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
     "Q6/XC2/3/32 OSPF.md",
     "Q4/XC/XC.md",
@@ -194,7 +195,6 @@
     "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
     "Q6/XC2/0 REPASO XC/15 Agregación de redes.md",
     "Q6/XC2/0 REPASO XC/05 Agregación de redes.md",
-    "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
     "Q6/XC2/2 IPv6",
     "Q6/XC2/1 Arquitectura de Internet",
     "Q6/PCA/2 HERRAMIENTAS",

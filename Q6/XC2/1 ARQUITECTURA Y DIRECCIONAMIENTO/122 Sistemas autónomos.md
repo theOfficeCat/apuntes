@@ -7,8 +7,4 @@ Cada AS es identificado por un número único (ASN) que cada RIR asigna a las or
 - 16 bits: 64512-65535
 - 32 bits: 4200000000-4294967294
 
-
-
-
-
 No todos los AS son ISP pero todos los ISP deben tener al menos un ASN.
