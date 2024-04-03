@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md"
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md"
               }
             }
           }
@@ -163,7 +163,13 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/121 ISP.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/12 Actores principales de Interet.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
     "Q6/XC2/3/32 OSPF.md",
+    "Q4/XC/XC.md",
+    "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
     "Q6/XC2/3/31 Contexto.md",
     "Q6/XC2/3",
     "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
@@ -176,15 +182,10 @@
     "Q6/PCA/1 INTRODUCCIÓN/111 Generación del código.md",
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
-    "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS",
     "Q6/PCA/2 HERRAMIENTAS/22 Herramientas para analizar el binario.md",
     "Tareas.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/121 ISP.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/12 Actores principales de Interet.md",
-    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
     "Q6/XC2/Untitled.canvas",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/Untitled",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO",
@@ -194,7 +195,6 @@
     "Q6/XC2/0 REPASO XC/15 Agregación de redes.md",
     "Q6/XC2/0 REPASO XC/05 Agregación de redes.md",
     "Q6/XC2/0 REPASO XC/04 Dispositivos.md",
-    "Q6/XC2/0 REPASO XC/03 Estructura de Internet.md",
     "Q6/XC2/2 IPv6",
     "Q6/XC2/1 Arquitectura de Internet",
     "Q6/PCA/2 HERRAMIENTAS",
