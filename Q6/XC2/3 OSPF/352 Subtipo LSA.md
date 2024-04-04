@@ -36,3 +36,5 @@ Aparece en las tablas de encaminamiento como dos formas:
 - O N1
 
 los dos en base al mismo criterio que el tipo 5. El ABR traduce el tipo 7 en tipo 5 al entrar en la troncal.
+
+En el sentido contrario se reenvía el LSA de tipo 1 o 3 si es stub el NSSA o una ruta por defecto si es totalmente stub.

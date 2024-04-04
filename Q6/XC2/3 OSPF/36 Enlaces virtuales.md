@@ -1,0 +1,1 @@
+En caso de que un área secundaria no esté conectada físicamente al área 0 se usa un enlace virtual conectando una secundaria a otra secundaria
