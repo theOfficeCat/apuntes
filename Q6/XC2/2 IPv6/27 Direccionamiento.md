@@ -18,4 +18,8 @@ No conoce todos los estados y cada host se autoconfigura de forma correcta sin d
 
 ##### Usando la MAC
 
-se transforma la MAC en un número de 64 bits metiendo .ff.fe en el centro
+se transforma la MAC en un número de 64 bits metiendo .ff.fe en el centro y cambiando el séptimo bit de la MAC.
+
+##### Generación aleatoria
+
+Pues eso, aleatoria.
