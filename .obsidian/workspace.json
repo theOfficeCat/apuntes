@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1222 Default-Free Zone.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1222 Default-Free Zone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1222 Default-Free Zone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md"
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1222 Default-Free Zone.md"
               }
             }
           }
@@ -161,10 +161,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "991e30d7fcac3e3f",
+  "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
-    "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1222 Default-Free Zone.md",
+    "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
     "Q6/PCA/4 FPGAs",
     "Q6/XC2/3/32 OSPF.md",
     "Q6/XC2/3/31 Contexto.md",
@@ -191,7 +192,6 @@
     "Q6/PCA/1 INTRODUCCIÓN/11 Proceso de optimización de un programa.md",
     "Q6/PCA/1 INTRODUCCIÓN/115 Comprobar mejora del rendimiento.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS",
-    "Tareas.md",
     "Q6/XC2/Untitled.canvas",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/Untitled",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO",

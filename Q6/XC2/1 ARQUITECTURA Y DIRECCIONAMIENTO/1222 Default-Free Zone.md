@@ -1,0 +1,1 @@
+A esta zona pertenecen todos los router que tienen información de encaminamiento sobre todo el resto de internet y, por tanto, no tienen una ruta por defecto. A esta zona es donde se acaba enviando el tráfico cuando no existe una entrada explícita para esa ruta en la tabla de encaminamiento.
