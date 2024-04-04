@@ -16,4 +16,5 @@ Se puede configurar de diferentes maneras:
 
 ## Funcionamiento
 
-SI le llega un mensaje con la información d eun cambio modifica el conocimiento del sistema y ejecuta un algoritmo de SFP (dijkstra).
+SI le llega un mensaje con la información de un cambio modifica el conocimiento del sistema y ejecuta un algoritmo de SFP (dijkstra).
+
