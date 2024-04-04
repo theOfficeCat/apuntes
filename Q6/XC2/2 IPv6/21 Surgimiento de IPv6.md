@@ -2,4 +2,4 @@ IPv6 surge a partir de ver que IPv4 se agotaría rápidamente de direcciones. Se
 
 Se acaba concluyendo que la solución pasa por la utilización de un espacio de direcciones más amplio (128 bits vs 32 bits)
 
-El problema que tiene IPv6 es que no es compatible con IPv4 por lo que la transición es compleja. Actualmente Internet funciona con los dos protocolos
+El problema que tiene IPv6 es que no es compatible con IPv4 por lo que la transición es compleja. Actualmente Internet funciona con los dos protocolos.
