@@ -15,4 +15,4 @@ Se crea como sustitución de Site-local con la intención de usarse como direcci
 - fc00::/8
 	- los 40 bits los proporcionan una entidad centralizada que todavía no está disponible
 - fd00::/8
-	- Los 40 bits
+	- Los 40 bits se definen en base a un algoritmo
