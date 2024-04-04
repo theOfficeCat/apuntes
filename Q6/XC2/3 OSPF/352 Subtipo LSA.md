@@ -30,4 +30,9 @@ Independientemente del tipo del área secundaria se reenvía una ruta por defect
 
 LSA que cruza un área secundario NSSA de ASBR a ABR.
 
-Aparece en las tablas de encaminamiento como 
+Aparece en las tablas de encaminamiento como dos formas:
+
+- O N2
+- O N1
+
+los dos en base al mismo criterio que el tipo 5. El ABR traduce el tipo 7 en tipo 5 al entrar en la troncal.
