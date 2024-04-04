@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/2 IPv6/25 Direccionamiento.md",
+                "file": "Q6/XC2/2 IPv6/26 ICMPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/2 IPv6/25 Direccionamiento.md",
+                "file": "Q6/XC2/2 IPv6/26 ICMPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/2 IPv6/25 Direccionamiento.md",
+                "file": "Q6/XC2/2 IPv6/26 ICMPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/2 IPv6/25 Direccionamiento.md"
+                "file": "Q6/XC2/2 IPv6/26 ICMPv6.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
-    "Q6/XC2/2 IPv6/24 Tipo de datagramas.md",
     "Q6/XC2/2 IPv6/25 Direccionamiento.md",
+    "Q6/XC2/2 IPv6/26 ICMPv6.md",
     "Q6/XC2/2 IPv6/23 Notación de las direcciones.md",
+    "Q6/XC2/2 IPv6/24 Tipo de datagramas.md",
     "Q6/XC2/2 IPv6/22 Cabecera IPv6.md",
     "Q6/XC2/2 IPv6/21 Surgimiento de IPv6.md",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1222 Default-Free Zone.md",
@@ -191,7 +192,6 @@
     "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS/31 Bithacks.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS/32 Memoization.md",
-    "Q6/PCA/PCA.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS",
     "Q6/XC2/Untitled.canvas",
     "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/Untitled",
