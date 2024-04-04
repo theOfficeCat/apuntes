@@ -30,4 +30,4 @@ Independientemente del tipo del área secundaria se reenvía una ruta por defect
 
 LSA que cruza un área secundario NSSA de ASBR a ABR.
 
- 
+Aparece en las tablas de encaminamiento como 
