@@ -23,3 +23,9 @@ se transforma la MAC en un número de 64 bits metiendo .ff.fe en el centro y cam
 ##### Generación aleatoria
 
 Pues eso, aleatoria.
+
+---
+
+##### Uso general
+
+MAC para redes internas, aleatoria para redes externas.
