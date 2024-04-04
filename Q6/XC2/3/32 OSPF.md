@@ -14,6 +14,7 @@ Se puede configurar de diferentes maneras:
 - @IP más alta entre las @IP asignadas a las interfaces virtuales
 - En caso de no crearse interfaces virtuales es la @IP más alta entre las @IP asignadas a interfaces activas del router.
 
+Cada router envía la información al resto de routers cuando se produce un cambio se forma que siempre todos los routers tienen el conocimiento completo de la red para escoger la ruta de envío.
 ## Funcionamiento
 
 SI le llega un mensaje con la información d eun cambio modifica el conocimiento del sistema y ejecuta un algoritmo de SFP (dijkstra).
