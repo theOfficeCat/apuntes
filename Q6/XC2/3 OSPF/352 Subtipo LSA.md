@@ -25,3 +25,9 @@ Aparecen de dos formas diferentes en las tablas de encaminamiento:
 - O E1: el coste lo decide el ASBR y añade un conste OSPF de cada link.
 
 Independientemente del tipo del área secundaria se reenvía una ruta por defecto.
+
+## Tipo 7
+
+LSA que cruza un área secundario NSSA de ASBR a ABR.
+
+ 

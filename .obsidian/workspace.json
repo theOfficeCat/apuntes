@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/3 OSPF/35 OSPF jerárquico.md",
+                "file": "Q6/XC2/3 OSPF/352 Subtipo LSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/3 OSPF/35 OSPF jerárquico.md",
+                "file": "Q6/XC2/3 OSPF/352 Subtipo LSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/3 OSPF/35 OSPF jerárquico.md",
+                "file": "Q6/XC2/3 OSPF/352 Subtipo LSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/3 OSPF/35 OSPF jerárquico.md"
+                "file": "Q6/XC2/3 OSPF/352 Subtipo LSA.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
+    "Q6/XC2/3 OSPF/35 OSPF jerárquico.md",
     "Q6/XC2/3 OSPF/352 Subtipo LSA.md",
     "Q6/XC2/3 OSPF/351 Tipos de área.md",
-    "Q6/XC2/3 OSPF/35 OSPF jerárquico.md",
     "Q6/XC2/3 OSPF/34 Actualización de las LSDB.md",
     "Q6/XC2/3 OSPF/33 Mensajes OSPF.md",
     "Q6/XC2/3 OSPF/32 OSPF.md",
