@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9195642b34d8ccc5",
+            "id": "b2f3de2e9792bd9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q7/SI/SI.md",
+                "file": "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a692e4be03689b3d",
+            "id": "3ae5479eba5dedfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q6/XC2/2 IPv6/28 Compatibilidad IPv4-IPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q6/XC2/2 IPv6/28 Compatibilidad IPv4-IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q6/XC2/2 IPv6/28 Compatibilidad IPv4-IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q7/C/C.md"
+                "file": "Q6/XC2/2 IPv6/28 Compatibilidad IPv4-IPv6.md"
               }
             }
           }
@@ -161,45 +161,45 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a692e4be03689b3d",
+  "active": "3ae5479eba5dedfb",
   "lastOpenFiles": [
-    "Q6/XC2/3/32 OSPF.md.orig",
-    "Q6/XC2/3/32 OSPF_REMOTE_668883.md",
-    "Q6/XC2/3/32 OSPF_LOCAL_668883.md",
-    "Q6/XC2/3/32 OSPF_BASE_668883.md",
-    "Q6/XC2/3/32 OSPF_BACKUP_668883.md",
-    "conflict-files-obsidian-git.md",
-    "Q7/C/C.md",
-    "bcompare-5.0.2.30045_amd64.deb",
-    "Q7/SI/1 INTRODUCCIÓN/11.md",
-    "Q7/C",
-    "Q6/XC2/3/32 OSPF.md",
-    "Q7/SI/SI.md",
-    "Q7/SI/1 INTRODUCCIÓN",
-    "Q7/SI",
-    "Q7",
-    "Q6/PROP/PROP.md",
-    "Q6/PROP/Ciclo de vida.md",
-    "Q6/PROP/Conceptos de orientación a objetos.md",
-    "Q6/PCA/3 LONG LATENCY OPERATIONS/31 Bithacks.md",
-    "Q6/XC2/3 OSPF/36 Enlaces virtuales.md",
-    "Q6/XC2/3 OSPF/352 Subtipo LSA.md",
-    "Q6/XC2/3 OSPF/351 Tipos de área.md",
-    "Q6/XC2/3 OSPF/35 OSPF jerárquico.md",
-    "Q6/XC2/3 OSPF/34 Actualización de las LSDB.md",
-    "Q6/XC2/3 OSPF/32 OSPF.md",
-    "Q6/XC2/3 OSPF/33 Mensajes OSPF.md",
-    "Q6/XC2/3 OSPF/31 Contexto.md",
-    "Q6/XC2/3 OSPF",
-    "Q6/PCA/3 LONG LATENCY OPERATIONS/32 Memoization.md",
-    "Q6/XC2/3/31 Contexto.md",
-    "Q6/XC2/2 IPv6/25 Direccionamiento.md",
     "Q6/XC2/2 IPv6/27 Direccionamiento.md",
+    "Q6/XC2/2 IPv6/28 Compatibilidad IPv4-IPv6.md",
+    "Q6/XC2/2 IPv6/26 ICMPv6.md",
+    "Q6/XC2/2 IPv6/25 Direccionamiento.md",
+    "Q6/XC2/2 IPv6/23 Notación de las direcciones.md",
+    "Q6/XC2/2 IPv6/24 Tipo de datagramas.md",
+    "Q6/XC2/2 IPv6/22 Cabecera IPv6.md",
+    "Q6/XC2/2 IPv6/21 Surgimiento de IPv6.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1222 Default-Free Zone.md",
     "Q6/XC2/2 IPv6",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1221 Relación entre AS.md",
+    "Q6/PCA/4 FPGAs/41 Conceptos básicos.md",
     "Q6/PCA/4 FPGAs",
+    "Q6/XC2/3/32 OSPF.md",
+    "Q6/XC2/3/31 Contexto.md",
+    "Q6/PCA/3 LONG LATENCY OPERATIONS/34 Técnicas.md",
     "Q6/XC2/3",
+    "Q6/PCA/3 LONG LATENCY OPERATIONS/33 Branches.md",
+    "Q6/XC2/XC2.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/11 Arquitectura general de Internet.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/12 Actores principales de Interet.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/122 Sistemas autónomos.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/121 ISP.md",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/1211 Tier 1.md",
+    "Q6/PCA/2 HERRAMIENTAS/23 Herramientas para analizar la ejecución.md",
+    "Q6/PCA/2 HERRAMIENTAS/22 Herramientas para analizar el binario.md",
+    "Q6/PCA/2 HERRAMIENTAS/21 Herramientas para obtener el código binario.md",
+    "Q6/PCA/1 INTRODUCCIÓN/112 Análisis de rendimiento.md",
+    "Q6/PCA/1 INTRODUCCIÓN/113 Cuando se tiene que optimizar el código.md",
     "Q6/PCA/3 LONG LATENCY OPERATIONS",
     "Q6/XC2/Untitled.canvas",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO/Untitled",
+    "Q6/XC2/1 ARQUITECTURA Y DIRECCIONAMIENTO",
+    "Q6/XC2/2 IPv6",
+    "Q6/XC2/1 Arquitectura de Internet",
+    "Q6/PCA/2 HERRAMIENTAS",
+    "Q4/XC",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
     "Q5/VLSI/Images/circuito_ecadenamiento_capacidad.jpg",
