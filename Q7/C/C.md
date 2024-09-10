@@ -12,7 +12,9 @@ Tests de Atenea
 
 ## Laboratorios
 
-Se tiene que enviar un correo con el SHA512 del fichero entregado y firmado digitalmente
+Se tiene que enviar un correo con el SHA512 del fichero entregado y firmado digitalmente.
+
+Los que hacen el lab en parejas es necesaria solo una entrega por grupo pero el correo tiene que ser individual.
 
 ## Importante
 
