@@ -10,3 +10,5 @@ Tener las máquinas propias en centros externos, de forma que se reduce el coste
 
 Tenerlo en servidores externos, de forma que se reduce el coste de compra del hardware.
 
+---
+
