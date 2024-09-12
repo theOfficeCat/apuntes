@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q7/CPD/Definiciones.md",
+                "file": "Q7/CPD/CPD.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q7/CPD/Definiciones.md",
+                "file": "Q7/CPD/CPD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q7/CPD/Definiciones.md",
+                "file": "Q7/CPD/CPD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q7/CPD/Definiciones.md"
+                "file": "Q7/CPD/CPD.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "a692e4be03689b3d",
   "lastOpenFiles": [
-    "Q7/CPD/1 INTRODUCCIÓN/11 Servicios y servidores.md",
     "Q7/CPD/Definiciones.md",
+    "Q7/CPD/1 INTRODUCCIÓN/11 Servicios y servidores.md",
     "Q7/CPD/CPD.md",
     "Q7/CPD/1 INTRODUCCIÓN",
     "Q7/MP/MP.md",
