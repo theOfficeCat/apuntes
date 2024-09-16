@@ -1,0 +1,1 @@
+Es una criptografía asimétrica donde cada extremo tiene una clave pública y privada.

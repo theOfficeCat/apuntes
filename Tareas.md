@@ -21,3 +21,7 @@
 - [ ] Llenar [[Conceptos de orientación a objetos]]
 - [ ] Escribir las cosas de [[11 Arquitectura general de Internet]]
 - [ ] Escribir de sistemas autónomos [[122 Sistemas autónomos]]
+
+# Q7
+
+- [ ] Llenar las cosas de [[222 Criptografía privada]]

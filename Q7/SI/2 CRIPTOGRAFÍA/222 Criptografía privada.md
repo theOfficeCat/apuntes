@@ -2,3 +2,14 @@ Origen y destino usan la misma clave secreta, por lo que es una criptografía si
 
 Se suele basar en un cifrado en bloques, donde X conjunto de bis siempre se traduce por Y conjunto de bits.
 
+## One Time Pad
+
+
+## Data Encryption Standard
+
+
+## 3DES
+
+
+## AES
+
