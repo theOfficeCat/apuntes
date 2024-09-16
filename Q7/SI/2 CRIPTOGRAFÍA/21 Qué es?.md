@@ -1,1 +1,1 @@
-Protección para las comunicaciones en la red.
+Protección para las comunicaciones en la red cifrando o codificando los mensajes con el objetivo de hacerlo ininteligible para receptores no autorizados.
