@@ -1,6 +1,6 @@
 # Profesor
 
-Fermando Martínez
+Fernando Martínez
 fernando.martinez@upc.edu
 Departamento de matemáticas
 
