@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q7/MP/MP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q7/MP/MP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q7/MP/MP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q7/C/C.md"
+                "file": "Q7/MP/MP.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "a692e4be03689b3d",
   "lastOpenFiles": [
+    "Q7/C/C.md",
     "Q7/CPD/2 ALMACENAMIENTO/21 Discos y esas weas.md",
     "Q7/CPD/Cosas del Pitiflí/Usos de CPDs en Ciencia e Industria/Untitled.md",
     "Q7/CPD/2 ALMACENAMIENTO",
@@ -185,7 +186,6 @@
     "Q7/CPD/Definiciones.md",
     "Q7/CPD/1 INTRODUCCIÓN",
     "Q7/CPD",
-    "Q7/C/C.md",
     "Q7/MP",
     "Q6/XC2/3/32 OSPF.md.orig",
     "Q6/XC2/3/32 OSPF_REMOTE_668883.md",
