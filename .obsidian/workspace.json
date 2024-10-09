@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q6/XC2/XC2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q6/XC2/XC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q7/C/C.md",
+                "file": "Q6/XC2/XC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q7/C/C.md"
+                "file": "Q6/XC2/XC2.md"
               }
             }
           }
@@ -163,9 +163,11 @@
   },
   "active": "a692e4be03689b3d",
   "lastOpenFiles": [
+    "Q7/SI/SI.md",
+    "Q7/SI/2 CRIPTOGRAFÍA/223 Criptografía híbrida.md",
+    "Q7/C/C.md",
     "Q7/CPD/2 ALMACENAMIENTO/21 Discos y esas weas.md",
     "Q7/MP/MP.md",
-    "Q7/C/C.md",
     "Q7/CPD/2 ALMACENAMIENTO/Untitled.md",
     "Q7/CPD/2 ALMACENAMIENTO",
     "Q7/CPD/CPD.md",
@@ -175,9 +177,7 @@
     "Q7/MP/1 MOTIVACIÓN/11 Las leyes y todo eso de siempre.md",
     "Q7/MP/1 MOTIVACIÓN",
     "Q7/SI/2 CRIPTOGRAFÍA/23 Firma digital.md",
-    "Q7/SI/SI.md",
     "Q7/SI/2 CRIPTOGRAFÍA/22 Tipos.md",
-    "Q7/SI/2 CRIPTOGRAFÍA/223 Criptografía híbrida.md",
     "Q7/SI/2 CRIPTOGRAFÍA/221 Criptografía pública.md",
     "Q7/SI/2 CRIPTOGRAFÍA/222 Criptografía privada.md",
     "Tareas.md",
