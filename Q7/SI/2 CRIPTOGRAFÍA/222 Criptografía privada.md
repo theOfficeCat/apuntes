@@ -4,7 +4,7 @@ Se suele basar en un cifrado en bloques, donde X conjunto de bis siempre se trad
 
 ## One Time Pad
 
-
+Los bloques se cifran usando una clave secreta aleatoria de la misma longitud que el bloque.
 ## Data Encryption Standard
 
 
