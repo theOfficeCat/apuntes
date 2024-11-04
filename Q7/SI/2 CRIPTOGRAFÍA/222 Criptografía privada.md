@@ -1,6 +1,6 @@
 Origen y destino usan la misma clave secreta, por lo que es una criptografía simétrica. Requiere el intercambio de esta clave a través de un sistema seguro, lo que es un problema.
 
-Se suele basar en un cifrado en bloques, donde X conjunto de bis siempre se traduce por Y conjunto de bits. A
+Se suele basar en un cifrado en bloques, donde X conjunto de bis siempre se traduce por Y conjunto de bits. Aunque también se encuentra encriptación de flujo.
 
 ## One Time Pad
 
