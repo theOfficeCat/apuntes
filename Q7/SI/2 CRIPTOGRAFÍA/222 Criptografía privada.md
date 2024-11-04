@@ -2,10 +2,11 @@ Origen y destino usan la misma clave secreta, por lo que es una criptografía si
 
 Se suele basar en un cifrado en bloques, donde X conjunto de bis siempre se traduce por Y conjunto de bits. Aunque también se encuentra encriptación de flujo.
 
-## One Time Pad
+## Cifrado de bloque
+### One Time Pad
 
 Los bloques se cifran usando una clave secreta aleatoria de la misma longitud que el bloque.
-## Data Encryption Standard
+### Data Encryption Standard
 
 Utiliza bloques de 64 bytes y una clave de 56 + 8 de paridad.
 
@@ -26,10 +27,18 @@ Funcionamiento:
 
 El descifrado funciona igual pero invirtiendo el orden de aplicación de las subclaves en F.
 
-## 3DES
+### 3DES
 
 Aplicar DES 3 veces con una clave total de 168 bits.
 
 No tiene vulnerabilidades conocidas pero es muy lento para grandes cantidades de datos.
-## AES
+### AES
+
+1. Se organizan los 128 bits en una matrix de 4x4 bytes.
+2. Se hace una primera operación de combinación de cada byte con la clave modificada con una determinada operación.
+3. Después se hacen 10, 12 o 14 rondas de:
+	1. Substitución de los bytes siguiendo una tabla.
+	2. Shifteo de las filas.
+	3. Combinación de los 4 bytes de cada columna con una transformación lineal.
+	4. Combinación de cada byte de la matrix con la clave modificada.
 
