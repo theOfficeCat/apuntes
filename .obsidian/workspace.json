@@ -16,7 +16,9 @@
                 "file": "Q7/SI/SI.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SI"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q6/XC2/XC2.md",
+                "file": "Q7/CPD/2 ALMACENAMIENTO/Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q6/XC2/XC2.md",
+                "file": "Q7/CPD/2 ALMACENAMIENTO/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q6/XC2/XC2.md",
+                "file": "Q7/CPD/2 ALMACENAMIENTO/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q6/XC2/XC2.md"
-              }
+                "file": "Q7/CPD/2 ALMACENAMIENTO/Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -163,10 +181,11 @@
   },
   "active": "a692e4be03689b3d",
   "lastOpenFiles": [
+    "Q7/CPD/2 ALMACENAMIENTO/21 Discos y esas weas.md",
+    "Q6/XC2/XC2.md",
     "Q7/SI/SI.md",
     "Q7/SI/2 CRIPTOGRAFÍA/223 Criptografía híbrida.md",
     "Q7/C/C.md",
-    "Q7/CPD/2 ALMACENAMIENTO/21 Discos y esas weas.md",
     "Q7/MP/MP.md",
     "Q7/CPD/2 ALMACENAMIENTO/Untitled.md",
     "Q7/CPD/2 ALMACENAMIENTO",
@@ -198,7 +217,6 @@
     "Q6/XC2/3/32 OSPF.md",
     "Q6/PROP/PROP.md",
     "Q6/PROP/Ciclo de vida.md",
-    "Q6/PROP/Conceptos de orientación a objetos.md",
     "Q6/XC2/Untitled.canvas",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
