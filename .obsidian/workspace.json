@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "23 Firma digital"
             }
+          },
+          {
+            "id": "1e5f7b9706511d06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a692e4be03689b3d",
+  "active": "1e5f7b9706511d06",
   "lastOpenFiles": [
     "Q7/SI/2 CRIPTOGRAFÍA/223 Criptografía híbrida.md",
     "Q7/SI/2 CRIPTOGRAFÍA/221 Criptografía pública.md",
