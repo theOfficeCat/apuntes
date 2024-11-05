@@ -19,3 +19,8 @@ Cada aplicación tiene un conjunto de CAs de confianza que acreditan los certifi
 ### Cruzada jerárquica
 
 Las CA raiz se emiten certificados entre ellas.
+
+### Certificación de puente
+
+Una CA puente es una entidad externa que actua como puente entre dos PKI, todas las CA emiten un certificado cruzado con esta CA puente, de forma que se permite una mayor escalalbilidad que la cruzada jerárquica.
+
