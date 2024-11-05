@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q7/SI/3 PKI/323 VA.md",
+                "file": "Q7/SI/3 PKI/324 TSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "323 VA"
+              "title": "324 TSA"
             }
           }
         ],
@@ -181,8 +181,9 @@
   },
   "active": "a692e4be03689b3d",
   "lastOpenFiles": [
-    "Q7/SI/3 PKI/322 RA.md",
     "Q7/SI/3 PKI/323 VA.md",
+    "Q7/SI/3 PKI/324 TSA.md",
+    "Q7/SI/3 PKI/322 RA.md",
     "Q7/SI/3 PKI/321 CA.md",
     "Q7/SI/3 PKI/32 PKI.md",
     "Q7/SI/3 PKI/31 Problema que lo origina.md",
@@ -216,7 +217,6 @@
     "Q6/XC2/3/32 OSPF_REMOTE_668883.md",
     "Q6/XC2/3/32 OSPF_LOCAL_668883.md",
     "Q6/XC2/3/32 OSPF_BASE_668883.md",
-    "Q6/XC2/3/32 OSPF_BACKUP_668883.md",
     "Q6/XC2/Untitled.canvas",
     "Q5/AC2/imágenes/tipos_de_implementacion_cortocircuito.png",
     "Q5/VLSI/Images/circuito_encadenamiento_capacidad.jpg",
