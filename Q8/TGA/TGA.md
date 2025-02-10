@@ -5,3 +5,6 @@
 ###### TGA
 TGA
 
+## importante
+
+Pipeline gráfico
