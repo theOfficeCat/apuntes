@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q8/TGA/TGA.md",
+                "file": "NotOnlyFlops Winter School/Quinto día/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TGA"
+              "title": "Untitled"
             }
           }
         ],
@@ -182,8 +182,17 @@
   },
   "active": "a692e4be03689b3d",
   "lastOpenFiles": [
-    "Q7/CPD/2 ALMACENAMIENTO/Untitled.md",
+    "NotOnlyFlops Winter School/Cuarto día/RISC-V.md",
+    "NotOnlyFlops Winter School/Tercer día/Predicción climática.md",
+    "NotOnlyFlops Winter School/Segundo día/COMPS/PyCOMPSs.md",
+    "NotOnlyFlops Winter School/Primer día/MPI + OpenMP.md",
+    "NotOnlyFlops Winter School/Primer día/Modulos.md",
+    "NotOnlyFlops Winter School/Primer día/Introdución a MPI.md",
+    "NotOnlyFlops Winter School/Primer día/Introducción a OpenMP.md",
+    "NotOnlyFlops Winter School/Primer día/Introducción a clusters HPC.md",
+    "NotOnlyFlops Winter School/Primer día/Acceso a MareNostrum 4.md",
     "Q8/TGA/TGA.md",
+    "Q7/CPD/2 ALMACENAMIENTO/Untitled.md",
     "Q8/TGA",
     "Q8",
     "Q7/SI/3 PKI/34 X.509.md",
@@ -203,18 +212,9 @@
     "Q7/C/C.md",
     "Q7/MP/MP.md",
     "Q7/CPD/2 ALMACENAMIENTO",
-    "Q7/CPD/CPD.md",
     "Q7/CPD/Cosas del Pitiflí/Usos de CPDs en Ciencia e Industria",
     "Q7/CPD/Cosas del Pitiflí",
-    "Q7/CPD/1 INTRODUCCIÓN/11 Servicios y servidores.md",
-    "Q7/MP/1 MOTIVACIÓN/11 Las leyes y todo eso de siempre.md",
     "Q7/MP/1 MOTIVACIÓN",
-    "Q7/SI/2 CRIPTOGRAFÍA/23 Firma digital.md",
-    "Q7/SI/2 CRIPTOGRAFÍA/22 Tipos.md",
-    "Q7/SI/2 CRIPTOGRAFÍA/221 Criptografía pública.md",
-    "Q7/SI/2 CRIPTOGRAFÍA/222 Criptografía privada.md",
-    "Tareas.md",
-    "Q7/SI/2 CRIPTOGRAFÍA/21 Qué es?.md",
     "Q7/SI/2 CRIPTOGRAFÍA",
     "Q7/CPD/1 INTRODUCCIÓN",
     "Q7/CPD",
